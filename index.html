@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>alanews.</title>
+  <meta name="description" content="El diario personal de Sebas: negocios, Perú y el mundo, explicados para que se queden.">
+  <meta name="theme-color" content="#111111">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,700&family=Inter:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body data-tab="hoy">
+
+  <div class="franja" id="franja">Cargando edición…</div>
+
+  <header class="cabecera">
+    <div class="cabecera-fila contenedor">
+      <p class="lema">Negocios, Perú y el mundo, explicados para que se queden.</p>
+      <a class="logo" href="#">alanews<span class="logo-punto">.</span></a>
+      <span class="fecha-movil" id="fecha-movil"></span>
+      <nav class="nav-escritorio" aria-label="Secciones">
+        <a class="pill" href="#archivo">Archivo</a>
+        <a class="pill" href="#cuaderno">Cuaderno</a>
+        <a class="pill pill-negra" href="#repaso" id="nav-repaso">Repaso</a>
+      </nav>
+    </div>
+    <div class="chips contenedor sec t-hoy" role="group" aria-label="Filtrar por tema" id="chips"></div>
+  </header>
+
+  <main class="contenedor">
+
+    <div class="fila-portada">
+      <section class="sec t-hoy portada" id="portada" aria-label="Ponte al día"></section>
+
+      <aside class="sec t-hoy t-repaso repaso" id="repaso" aria-label="Repaso del día"></aside>
+    </div>
+
+    <section class="sec t-hoy edicion" aria-labelledby="titulo-edicion">
+      <div class="seccion-cabeza">
+        <h2 id="titulo-edicion">la edición de hoy</h2>
+        <span class="etiqueta" id="contador-historias"></span>
+      </div>
+      <div class="grilla-historias" id="historias"></div>
+    </section>
+
+    <section class="sec t-cuaderno cuaderno" id="cuaderno" aria-labelledby="titulo-cuaderno">
+      <div class="seccion-cabeza">
+        <h2 id="titulo-cuaderno">tu cuaderno</h2>
+        <span class="etiqueta">Lo que te dio curiosidad</span>
+      </div>
+      <div class="cuaderno-ciclo" id="ciclo"></div>
+      <div class="cuaderno-columnas">
+        <div class="cuaderno-col">
+          <span class="etiqueta">Nueva nota</span>
+          <div class="caja nota-caja">
+            <label class="nota-titulo" for="nota-texto">Deja una nota para mañana</label>
+            <div class="tipos" role="group" aria-label="Tipo de nota" id="tipos"></div>
+            <textarea id="nota-texto" rows="3" placeholder="Ej.: ¿Cómo armaría un agente el modelo financiero de un proyecto inmobiliario?"></textarea>
+            <button type="button" class="boton boton-negro" id="guardar-nota">Guardar para mañana</button>
+            <div class="para-manana"><span>Para mañana</span><span id="contador-notas">0 notas</span></div>
+            <div id="lista-notas"></div>
+            <button type="button" class="boton boton-borde" id="copiar-notas">Copiar mis notas para Claude</button>
+            <p class="ayuda" id="ayuda-copiar">Mientras armamos al agente de las 6 a.m., copia tus notas y pégalas en tu chat con Claude.</p>
+          </div>
+        </div>
+        <div class="cuaderno-col cuaderno-col-ancha">
+          <span class="etiqueta">Respuestas a tus notas de ayer · ejemplo</span>
+          <div id="respuestas" class="respuestas"></div>
+        </div>
+      </div>
+      <div class="curiosidades">
+        <div class="seccion-cabeza seccion-cabeza-chica">
+          <h3>curiosidades del mes</h3>
+          <span class="etiqueta">ejemplo</span>
+        </div>
+        <div class="caja curiosidades-caja" id="curiosidades"></div>
+      </div>
+    </section>
+
+    <section class="sec t-archivo archivo" id="archivo" aria-labelledby="titulo-archivo">
+      <div class="seccion-cabeza">
+        <h2 id="titulo-archivo">archivo</h2>
+        <span class="etiqueta">Todas las ediciones</span>
+      </div>
+      <div class="lista-archivo" id="lista-archivo"></div>
+    </section>
+
+  </main>
+
+  <footer class="pie">
+    <span>alanews · hecho por Sebas con Claude</span>
+    <span id="pie-edicion"></span>
+  </footer>
+
+  <nav class="barra-inferior" aria-label="Pestañas">
+    <button type="button" data-ir="hoy" aria-pressed="true"><span class="icono-tab" aria-hidden="true"></span>Hoy</button>
+    <button type="button" data-ir="cuaderno" aria-pressed="false"><span class="icono-tab" aria-hidden="true" id="badge-cuaderno">+</span>Cuaderno</button>
+    <button type="button" data-ir="repaso" aria-pressed="false"><span class="icono-tab" aria-hidden="true" id="badge-repaso"></span>Repaso</button>
+    <button type="button" data-ir="archivo" aria-pressed="false"><span class="icono-tab" aria-hidden="true"></span>Archivo</button>
+  </nav>
+
+  <dialog id="historia" class="dialogo" aria-labelledby="historia-titulo">
+    <div class="dialogo-cuerpo" id="historia-cuerpo"></div>
+  </dialog>
+
+  <script src="personajes.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

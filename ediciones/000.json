@@ -1,0 +1,104 @@
+{
+  "numero": "000",
+  "fecha": "2026-11-16",
+  "fecha_texto": "lunes 16 nov 2026",
+  "fecha_corta": "16 nov",
+  "nota_edicion": "Edición de prueba: explicaciones reales, todavía sin noticias del día.",
+  "portada": {
+    "tema": "inmo",
+    "minutos": 4,
+    "titular": "Qué mueve el precio de un departamento en Lima",
+    "que_paso": "Esta edición de prueba no trae una noticia: trae una guía corta de las cuatro fuerzas que más mueven el precio de la vivienda: tasas, oferta, demanda y costo de construir.",
+    "por_que_importa": "En asesoría inmobiliaria casi toda conversación con un cliente termina en estas cuatro variables. Si las tienes claras, entiendes cualquier titular del sector.",
+    "zoom": "Las tasas hipotecarias pesan doble: cambian cuánto puede pagar el comprador cada mes y cuánto le cuesta al desarrollador financiar la obra.",
+    "para_conversar": "El precio por m² no lo decide solo el desarrollador: lo empujan el crédito, el terreno y la cuota que la gente puede pagar al mes."
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "cómo leer el precio del m²",
+      "bajada": "Por qué dos distritos no se comparan solo por ese número.",
+      "que_paso": "El precio por m² es el precio de venta dividido entre el área. Sirve para comparar departamentos de distinto tamaño.",
+      "por_que_importa": "Es lo primero que mira un cliente, pero esconde diferencias: qué área se usa (techada u ocupada), acabados, antigüedad y si incluye estacionamiento.",
+      "para_conversar": "Antes de comparar precios por m², pregunta qué área se está usando."
+    },
+    {
+      "tema": "inmo",
+      "visual": "dots",
+      "titulo": "cómo nace un proyecto",
+      "bajada": "Del terreno a la entrega de llaves, en cinco etapas.",
+      "que_paso": "Un proyecto pasa por compra del terreno, diseño y licencias, preventa, construcción y entrega.",
+      "por_que_importa": "En cada etapa cambian el riesgo y el financiamiento. Vender en preventa suele ayudar a conseguir el crédito para construir.",
+      "para_conversar": "La preventa no solo vende: demuestra que el proyecto tiene demanda."
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "un agente que arma el modelo financiero",
+      "bajada": "Cómo usarías un agente de IA en un proyecto inmobiliario.",
+      "que_paso": "Un agente puede reunir precios de la zona, costos de construcción y condiciones de crédito, armar el flujo de caja y calcular TIR y VAN.",
+      "por_que_importa": "Te ahorra horas de armado. Tu valor está en revisar los supuestos y defender el resultado frente al cliente.",
+      "para_conversar": "La IA arma el modelo; el criterio para los supuestos sigue siendo tuyo."
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "tu primera inversión, en una curva",
+      "bajada": "Interés compuesto: el tiempo trabaja más que el monto.",
+      "que_paso": "Con interés compuesto, los intereses de cada año también generan intereses, y la curva se empina con el tiempo.",
+      "por_que_importa": "Empezar antes suele pesar más que invertir mucho de golpe: los últimos años de la curva son los que más crecen.",
+      "para_conversar": "Regla del 72: divide 72 entre la tasa anual y sabrás, más o menos, en cuántos años se duplica tu plata."
+    },
+    {
+      "tema": "peru",
+      "visual": "steps",
+      "titulo": "mivivienda en tres pasos",
+      "bajada": "Ahorro, bono y crédito: cómo se arma la compra.",
+      "que_paso": "El Fondo Mivivienda es una entidad del Estado que promueve el acceso a vivienda con créditos hipotecarios y bonos.",
+      "por_que_importa": "Para muchos compradores, el bono y la cuota inicial deciden la compra. Por eso varios proyectos se piensan cerca de esos topes de precio.",
+      "para_conversar": "En vivienda social, el precio muchas veces se diseña alrededor del bono."
+    },
+    {
+      "tema": "mundo",
+      "visual": "grid",
+      "titulo": "oficinas después del trabajo remoto",
+      "bajada": "Por qué la vacancia se volvió un indicador clave.",
+      "que_paso": "La tasa de vacancia mide qué parte del inventario de oficinas está disponible, sin ocupar ni alquilar.",
+      "por_que_importa": "Con más trabajo híbrido, muchas empresas reducen o reacomodan sus oficinas. Eso presiona los alquileres y abre espacio a los coworkings.",
+      "para_conversar": "Cuando sube la vacancia, el poder de negociación pasa al inquilino."
+    }
+  ],
+  "flashcards": [
+    { "q": "¿Qué mide la tasa de vacancia de oficinas?", "a": "El porcentaje del inventario de oficinas que está disponible, sin ocupar ni alquilar." },
+    { "q": "¿Qué es un agente de IA?", "a": "Una IA que no solo responde: decide pasos, usa herramientas (navegador, archivos, búsqueda) y sigue hasta terminar la tarea." },
+    { "q": "¿Qué es el Fondo Mivivienda?", "a": "Una entidad del Estado peruano que promueve el acceso a vivienda con créditos hipotecarios y bonos." },
+    { "q": "¿Qué es el VAN de un proyecto?", "a": "El valor de hoy de los flujos futuros menos la inversión. Si es positivo, el proyecto crea valor." },
+    { "q": "¿Qué es la TIR?", "a": "La tasa que hace que el VAN sea cero. Se compara con el costo del capital: si la supera, el proyecto conviene." },
+    { "q": "¿Qué es vender en preventa o “en planos”?", "a": "Vender unidades antes de que el edificio esté terminado. Ayuda a financiar la obra y a probar la demanda." },
+    { "q": "¿Qué dice la regla del 72?", "a": "Si divides 72 entre la tasa de interés anual, obtienes aproximadamente los años que tarda tu dinero en duplicarse." }
+  ],
+  "respuestas": [
+    {
+      "tipo": "pregunta",
+      "nota": "¿Cómo podría un agente armar el modelo financiero de un proyecto inmobiliario?",
+      "respuesta": "Juntaría los precios por m² de la zona, los costos de construcción y las condiciones de financiamiento; armaría el flujo de caja del proyecto en una hoja de cálculo y calcularía TIR y VAN. Tu trabajo: revisar los supuestos, que es donde está el criterio.",
+      "ilustracion": "combo_agente_edificio",
+      "extra": "+2 flashcards al repaso"
+    },
+    {
+      "tipo": "mas",
+      "nota": "Coworkings y oficinas flexibles en Lima",
+      "respuesta": "Hoy te dejamos una historia sobre oficinas y vacancia. Seguirán llegando más sobre el tema.",
+      "ilustracion": "building",
+      "extra": ""
+    }
+  ],
+  "curiosidades": [
+    { "tema": "ia", "texto": "agentes", "n": 12 },
+    { "tema": "inmo", "texto": "coworkings", "n": 8 },
+    { "tema": "fin", "texto": "tasas", "n": 5 },
+    { "tema": "peru", "texto": "Mivivienda", "n": 4 },
+    { "tema": "mundo", "texto": "TIR y VAN", "n": 3 }
+  ]
+}
