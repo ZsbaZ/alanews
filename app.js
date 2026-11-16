@@ -214,7 +214,6 @@
 
   // ---------- cuaderno ----------
   function pintarCuaderno() {
-    $('ciclo').innerHTML = svg(SVG.diagrama, '0 -52 540 452', '', 'Cómo funciona: anotas de noche, el agente investiga a las 6 a.m. y mañana aprendes');
     pintarTipos();
     pintarNotas();
     var ed = estado.edicion;
@@ -222,11 +221,11 @@
       var tipo = TIPOS.filter(function (x) { return x.id === r.tipo; })[0] || TIPOS[1];
       var sello = r.tipo === 'mas' ? 'Quieres más de esto' : (r.tipo === 'investiga' ? 'Lo investigamos' : 'Tu pregunta');
       var esCombo = r.ilustracion === 'combo_agente_edificio';
-      return '<article class="caja respuesta"><div class="respuesta-texto">' +
+      return '<article class="caja respuesta"><div class="respuesta-dibujo">' + svg(SVG[r.ilustracion], esCombo ? '0 0 260 150' : '0 0 120 120', 'ala-float') + '</div><div class="respuesta-texto">' +
         '<span class="sello" style="background:' + tipo.color + ';color:' + tipo.fg + '">' + sello + '</span>' +
         '<p class="cita">“' + esc(r.nota) + '”</p><p style="margin:0">' + esc(r.respuesta) + '</p>' +
         (r.extra ? '<span class="etiqueta" style="color:var(--morado)">' + esc(r.extra) + '</span>' : '') +
-        '</div><div class="respuesta-dibujo">' + svg(SVG[r.ilustracion], esCombo ? '0 0 260 150' : '0 0 120 120', 'ala-float') + '</div></article>';
+        '</div></article>';
     }).join('');
     pintarCuriosidades(ed.curiosidades || []);
   }
@@ -241,13 +240,13 @@
 
   function pintarNotas() {
     var notas = leer('alanews.notas', []);
-    $('contador-notas').textContent = notas.length === 1 ? '1 nota' : notas.length + ' notas';
+    $('copiar-notas').hidden = !notas.length;
     $('badge-cuaderno').textContent = notas.length || '+';
     $('lista-notas').innerHTML = notas.length ? notas.map(function (n, i) {
       var t = TIPOS.filter(function (x) { return x.id === n.tipo; })[0] || TIPOS[0];
       return '<div class="nota-item"><div><span class="etiqueta" style="color:' + t.texto + '">' + esc(t.label) + '</span><span>' + esc(n.texto) + '</span></div>' +
         '<button type="button" class="borrar" data-borrar="' + i + '" aria-label="Borrar nota">×</button></div>';
-    }).join('') : '<p class="vacio">Todavía no dejaste notas. Lo que anotes, mañana vuelve explicado.</p>';
+    }).join('') : '';
   }
 
   document.addEventListener('click', function (e) {
@@ -270,14 +269,14 @@
     }
     if (e.target.id === 'copiar-notas') {
       var ns = leer('alanews.notas', []);
-      if (!ns.length) { $('ayuda-copiar').textContent = 'Primero deja alguna nota.'; return; }
+      if (!ns.length) { return; }
       var texto = 'Mis notas de Alanews para investigar:\n' + ns.map(function (n) {
         var t = TIPOS.filter(function (x) { return x.id === n.tipo; })[0] || TIPOS[0];
         return '- [' + t.label + '] ' + n.texto;
       }).join('\n');
-      var ok = function () { $('ayuda-copiar').textContent = '¡Copiado! Pégalo en tu chat con Claude.'; };
-      if (navigator.clipboard) { navigator.clipboard.writeText(texto).then(ok, function () { $('ayuda-copiar').textContent = texto; }); }
-      else { $('ayuda-copiar').textContent = texto; }
+      var aviso = function (msg) { var a = $('ayuda-copiar'); a.textContent = msg; a.hidden = false; setTimeout(function () { a.hidden = true; }, 3500); };
+      if (navigator.clipboard) { navigator.clipboard.writeText(texto).then(function () { aviso('¡Copiado! Pégalo en tu chat con Claude.'); }, function () { aviso(texto); }); }
+      else { aviso(texto); }
     }
   });
 

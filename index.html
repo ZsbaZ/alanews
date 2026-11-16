@@ -50,23 +50,21 @@
         <h2 id="titulo-cuaderno">tu cuaderno</h2>
         <span class="etiqueta">Lo que te dio curiosidad</span>
       </div>
-      <div class="cuaderno-ciclo" id="ciclo"></div>
       <div class="cuaderno-columnas">
         <div class="cuaderno-col">
           <span class="etiqueta">Nueva nota</span>
           <div class="caja nota-caja">
             <label class="nota-titulo" for="nota-texto">Deja una nota para mañana</label>
             <div class="tipos" role="group" aria-label="Tipo de nota" id="tipos"></div>
-            <textarea id="nota-texto" rows="3" placeholder="Ej.: ¿Cómo armaría un agente el modelo financiero de un proyecto inmobiliario?"></textarea>
+            <textarea id="nota-texto" rows="3" placeholder="Escribe aquí."></textarea>
             <button type="button" class="boton boton-negro" id="guardar-nota">Guardar para mañana</button>
-            <div class="para-manana"><span>Para mañana</span><span id="contador-notas">0 notas</span></div>
             <div id="lista-notas"></div>
-            <button type="button" class="boton boton-borde" id="copiar-notas">Copiar mis notas para Claude</button>
-            <p class="ayuda" id="ayuda-copiar">Mientras armamos al agente de las 6 a.m., copia tus notas y pégalas en tu chat con Claude.</p>
+            <button type="button" class="boton boton-borde" id="copiar-notas" hidden>Copiar mis notas para Claude</button>
+            <p class="ayuda" id="ayuda-copiar" hidden></p>
           </div>
         </div>
         <div class="cuaderno-col cuaderno-col-ancha">
-          <span class="etiqueta">Respuestas a tus notas de ayer · ejemplo</span>
+          <span class="etiqueta">Respuestas a tus notas de ayer</span>
           <div id="respuestas" class="respuestas"></div>
         </div>
       </div>
