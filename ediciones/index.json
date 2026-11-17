@@ -1,5 +1,6 @@
 {
   "ediciones": [
+    { "numero": "001", "fecha_corta": "17 nov", "dia": "mar", "titular": "El BCR subió la tasa por primera vez desde 2023: qué significa para ti", "archivo": "ediciones/001.json" },
     { "numero": "000", "fecha_corta": "16 nov", "dia": "lun", "titular": "Qué mueve el precio de un departamento en Lima", "archivo": "ediciones/000.json" }
   ]
 }

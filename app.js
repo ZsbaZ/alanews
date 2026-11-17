@@ -50,10 +50,18 @@
     fetch('ediciones/index.json', { cache: 'no-store' })
       .then(function (r) { return r.json(); })
       .then(function (indice) {
-        pintarArchivo(indice.ediciones || []);
-        var ultima = (indice.ediciones || [])[0];
-        if (!ultima) { throw new Error('sin ediciones'); }
-        return fetch(ultima.archivo, { cache: 'no-store' }).then(function (r) { return r.json(); });
+        var eds = indice.ediciones || [];
+        var pedida = new URLSearchParams(location.search).get('ed');
+        var elegida = eds.filter(function (e) { return e.numero === pedida; })[0] || eds[0];
+        if (!elegida) { throw new Error('sin ediciones'); }
+        pintarArchivo(eds, elegida.numero);
+        // Todas las ediciones: la elegida para la portada, y sus flashcards para el repaso.
+        return Promise.all(eds.map(function (e) {
+          return fetch(e.archivo, { cache: 'no-store' }).then(function (r) { return r.json(); }).catch(function () { return null; });
+        })).then(function (todas) {
+          estado.todas = todas.filter(Boolean);
+          return estado.todas.filter(function (ed) { return ed.numero === elegida.numero; })[0];
+        });
       })
       .then(function (ed) { estado.edicion = ed; pintarTodo(); })
       .catch(function () {
@@ -107,7 +115,14 @@
   function prepararRepaso() {
     var hoy = hoyISO();
     var progreso = leer('alanews.repaso', {});
-    var todas = (estado.edicion.flashcards || []).map(function (c) { return { id: idTarjeta(c.q), q: c.q, a: c.a }; });
+    var vistas = {};
+    var todas = [];
+    (estado.todas || [estado.edicion]).forEach(function (ed) {
+      (ed.flashcards || []).forEach(function (c) {
+        var id = idTarjeta(c.q);
+        if (!vistas[id]) { vistas[id] = true; todas.push({ id: id, q: c.q, a: c.a }); }
+      });
+    });
     estado.cola = todas.filter(function (c) { var p = progreso[c.id]; return !p || p.due <= hoy; });
     estado.idx = 0; estado.volteada = false; estado.animo = 'wait'; estado.sabidas = 0;
     var dia = Math.floor(Date.now() / 86400000);
@@ -217,6 +232,10 @@
     pintarTipos();
     pintarNotas();
     var ed = estado.edicion;
+    if (!(ed.respuestas || []).length) {
+      $('respuestas').innerHTML = '<article class="caja respuesta"><div class="respuesta-dibujo">' + svg(SVG.ghost_lupa, '0 0 120 120', 'ala-float') +
+        '</div><div class="respuesta-texto"><p class="cita">Aquí llegan las respuestas.</p><p style="margin:0">Deja una nota hoy y mañana vuelve explicada.</p></div></article>';
+    } else
     $('respuestas').innerHTML = (ed.respuestas || []).map(function (r) {
       var tipo = TIPOS.filter(function (x) { return x.id === r.tipo; })[0] || TIPOS[1];
       var sello = r.tipo === 'mas' ? 'Quieres más de esto' : (r.tipo === 'investiga' ? 'Lo investigamos' : 'Tu pregunta');
@@ -298,10 +317,11 @@
   }
 
   // ---------- archivo ----------
-  function pintarArchivo(eds) {
+  function pintarArchivo(eds, actual) {
     $('lista-archivo').innerHTML = eds.map(function (e, i) {
-      return '<a class="edicion-link" href="#"><span class="etiqueta">#' + esc(e.numero) + ' · ' + esc(e.dia) + ' ' + esc(e.fecha_corta) + '</span>' +
-        '<span class="titular-archivo">' + esc(e.titular) + '</span>' + (i === 0 ? '<span class="etiqueta" style="color:var(--acento-texto)">Hoy</span>' : '') + '</a>';
+      var marca = e.numero === actual ? 'Leyendo' : (i === 0 ? 'Hoy' : '');
+      return '<a class="edicion-link" href="' + (i === 0 ? './' : '?ed=' + encodeURIComponent(e.numero)) + '"><span class="etiqueta">#' + esc(e.numero) + ' · ' + esc(e.dia) + ' ' + esc(e.fecha_corta) + '</span>' +
+        '<span class="titular-archivo">' + esc(e.titular) + '</span>' + (marca ? '<span class="etiqueta" style="color:var(--acento-texto)">' + marca + '</span>' : '') + '</a>';
     }).join('') + '<div class="proximas">Aquí aparecerán las próximas ediciones, día por día.</div>';
   }
 

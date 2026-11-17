@@ -1,0 +1,89 @@
+{
+  "numero": "001",
+  "fecha": "2026-11-17",
+  "fecha_texto": "martes 17 nov 2026",
+  "fecha_corta": "17 nov",
+  "nota_edicion": "Primera edición con noticias reales.",
+  "portada": {
+    "tema": "fin",
+    "minutos": 4,
+    "titular": "El BCR subió la tasa por primera vez desde 2023: qué significa para ti",
+    "que_paso": "El 12 de noviembre, el Banco Central de Reserva subió su tasa de interés de referencia de 4.25% a 4.50%. Es la primera alza desde enero de 2023.",
+    "por_que_importa": "La razón es la inflación: en Lima llegó a 5.25% anual en octubre, la más alta en más de tres años y lejos del rango meta del BCR (1% a 3%). Una tasa más alta encarece el crédito con el tiempo, también el hipotecario, y eso pesa en la demanda de vivienda.",
+    "zoom": "El BCR aclaró que esta alza no implica necesariamente el inicio de un ciclo de subidas. Mirará la inflación mes a mes antes de volver a mover la tasa.",
+    "para_conversar": "El BCR subió la tasa sobre todo por combustibles y alimentos. Si el petróleo sigue bajando, tendrá menos presión para volver a subirla."
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "ventas de vivienda: +26% hasta setiembre",
+      "bajada": "Lima Moderna explica casi la mitad del crecimiento.",
+      "que_paso": "Entre enero y setiembre de 2026 se vendieron 23,626 viviendas nuevas en Lima Metropolitana y Callao, 26% más que el año pasado. Lima Moderna concentró el 47% del aumento.",
+      "por_que_importa": "El inventario disponible alcanza para unos 20 meses: al ritmo actual, eso tardaría en venderse todo lo que hay en oferta. Es un mercado con demanda fuerte, pero también con mucha oferta por colocar.",
+      "para_conversar": "Lima Moderna (Jesús María, Lince, Pueblo Libre, San Miguel…) sigue siendo el motor del mercado.",
+      "fuente": "https://forbes.pe/economia-y-finanzas/2026-10-27/venta-de-viviendas-en-lima-y-callao-crece-26-que-zonas-concentran-la-demanda-inmobiliaria/"
+    },
+    {
+      "tema": "inmo",
+      "visual": "dots",
+      "titulo": "el boom se muda a Lima Norte y Este",
+      "bajada": "Donde los departamentos se venden más rápido.",
+      "que_paso": "En Lima Norte, la absorción mensual (qué parte de la oferta se vende cada mes) subió de 5.5% a 6.9%. En Lima Este pasó de 6.5% a 11.2%, según datos del primer trimestre.",
+      "por_que_importa": "La vivienda social no se frenó: se trasladó a zonas con precios más bajos, como Lima Norte, Lima Este y Lima Centro, donde hay demanda insatisfecha de quienes pueden pagar esos precios.",
+      "para_conversar": "La vivienda social no se frenó, se mudó de zona.",
+      "fuente": "https://larepublica.pe/economia/2026/04/29/mercado-inmobiliario-en-lima-norte-este-y-callao-acelera-la-venta-de-viviendas-en-el-primer-trimestre-a-que-se-debe-este-impulso-hnews-2531284"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "casi todos usan agentes; pocos miden cuánto ganan",
+      "bajada": "La brecha entre adoptar IA y ganar plata con ella.",
+      "que_paso": "Un estudio de Genpact encontró que el 79% de las empresas ya implementó agentes de IA, pero solo el 15% vinculó por completo esa inversión a resultados financieros medibles. Esa misma semana, IBM y Microsoft lanzaron una plataforma con 6,000 agentes prehechos para sectores como finanzas y retail.",
+      "por_que_importa": "Los agentes ya no son un experimento. La pregunta en las empresas cambió de “¿lo usamos?” a “¿cuánto nos ahorra o nos hace ganar?”. En consultoría, saber medir eso vale oro.",
+      "para_conversar": "El reto ya no es tener agentes, es demostrar cuánta plata generan.",
+      "fuente": "https://aiagentsdirectory.com/news/ai-agents-news-brief-november-12-2026"
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "inflación en Lima: 5.25%",
+      "bajada": "La más alta en más de tres años, empujada por combustibles y alimentos.",
+      "que_paso": "Entre noviembre de 2025 y octubre de 2026, los precios en Lima subieron 5.25%, según el INEI. Es el octavo mes seguido por encima del rango meta del BCR.",
+      "por_que_importa": "Los combustibles y lubricantes subieron 43.67% en doce meses y los alimentos también presionaron. En cambio, en octubre los precios sin alimentos ni energía subieron solo 0.16% en el mes, frente a 0.57% del índice total: buena parte del alza viene de choques de precios.",
+      "para_conversar": "Esta inflación viene sobre todo de combustibles y comida.",
+      "fuente": "https://forbes.pe/economia-y-finanzas/2026-11-01/inflacion-de-octubre-en-peru-sube-un-056-por-alzas-en-alimentos-y-transporte/"
+    },
+    {
+      "tema": "peru",
+      "visual": "steps",
+      "titulo": "El Niño y el costo de construir",
+      "bajada": "Los desarrolladores ya ponen el clima en sus cálculos.",
+      "que_paso": "La Confederación de Desarrolladores Inmobiliarios (CODIP) advirtió que el Fenómeno El Niño podría elevar los costos de construcción y presionar los precios de la vivienda hacia fines de 2026 e inicios de 2027.",
+      "por_que_importa": "Todavía no hay indicadores que midan el impacto, porque las lluvias recién empiezan. Pero el riesgo es claro: más costos de obra pueden terminar en precios más altos o en proyectos que se retrasan.",
+      "para_conversar": "Ahora el clima también entra al Excel de un proyecto inmobiliario.",
+      "fuente": "https://gestion.pe/economia/empresas/el-nino-subiran-los-precios-de-las-viviendas-por-mayores-costos-de-construccion-noticia/"
+    },
+    {
+      "tema": "mundo",
+      "visual": "grid",
+      "titulo": "el petróleo vuelve a sobrar",
+      "bajada": "Por primera vez desde la guerra en Irán, habría más oferta que demanda.",
+      "que_paso": "La Agencia Internacional de Energía (AIE) estima que en el último trimestre de 2026 la oferta mundial de petróleo superará a la demanda, por primera vez desde el estallido de la guerra en Irán a fines de febrero.",
+      "por_que_importa": "En el Perú, los combustibles fueron uno de los grandes motores de la inflación. Si el petróleo se abarata, los precios podrían calmarse y el BCR tendría menos presión para seguir subiendo la tasa.",
+      "para_conversar": "Lo que pasa con el petróleo en Medio Oriente termina en el precio del pasaje y en la tasa de tu hipoteca.",
+      "fuente": "https://www.diariodelsur.com.co/noticias/la-oferta-mundial-de-petroleo-superara-a-la-demanda-al-cierre-de-2026"
+    }
+  ],
+  "flashcards": [
+    { "q": "¿A cuánto subió el BCR su tasa de referencia en noviembre de 2026?", "a": "De 4.25% a 4.50%. Fue su primera alza desde enero de 2023." },
+    { "q": "¿Cuál es el rango meta de inflación del BCR?", "a": "Entre 1% y 3% anual." },
+    { "q": "¿Cuánto fue la inflación anual de Lima a octubre de 2026?", "a": "5.25%, la más alta en más de tres años, empujada por combustibles y alimentos." },
+    { "q": "¿Cuántas viviendas nuevas se vendieron en Lima y Callao entre enero y setiembre de 2026?", "a": "23,626 unidades, 26% más que el año anterior." },
+    { "q": "¿Qué significa que el inventario de viviendas “alcance para 20 meses”?", "a": "Que, al ritmo actual de ventas, tomaría unos 20 meses vender toda la oferta disponible." },
+    { "q": "¿Qué es la absorción mensual en el mercado inmobiliario?", "a": "El porcentaje de la oferta disponible que se vende cada mes. Mide qué tan rápido se venden los proyectos." },
+    { "q": "¿Qué es la inflación subyacente?", "a": "La inflación sin alimentos ni energía. Muestra la tendencia de fondo de los precios, sin los choques más volátiles." }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
