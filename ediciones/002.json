@@ -1,0 +1,110 @@
+{
+  "numero": "002",
+  "fecha": "2026-11-20",
+  "fecha_texto": "viernes 20 nov 2026",
+  "fecha_corta": "20 nov",
+  "nota_edicion": "Hoy no llegaron newsletters de Gestión ni El Comercio al correo: todo sale de fuentes abiertas.",
+  "portada": {
+    "tema": "fin",
+    "minutos": 4,
+    "titular": "Bank of America cree que el BCR todavía no termina de subir la tasa",
+    "que_paso": "En su informe del 13 de noviembre, BofA Securities proyecta que la tasa de referencia del BCR cierre 2026 en 4.50% y suba a 4.75% en 2027. Para la Fed de EE.UU. espera tres alzas de 0.25 puntos: diciembre, enero y marzo.",
+    "por_que_importa": "Tasa de referencia = el interés que el BCR usa para guiar el costo del crédito. Si sigue subiendo, los bancos cobran más por los hipotecarios con el tiempo, y eso le pega a la demanda de vivienda justo cuando las ventas van fuerte.",
+    "zoom": "El BCR la subió a 4.50% el 12 de noviembre y dijo que eso no implica necesariamente una serie de alzas. BofA, en cambio, espera una más. Al mismo tiempo es más optimista que el MEF con el crecimiento: 3.5% para 2026, frente al 3.4% del ministerio.",
+    "para_conversar": "La pregunta para un cliente inmobiliario no es si sube la tasa, sino cuánto tiempo se queda alta. Un cuarto de punto más en 2027 ya cambia cuotas y calificación de compradores."
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "casi la mitad de lo que se vende mide 40 a 60 m²",
+      "bajada": "Construir cuesta más y los departamentos se achican.",
+      "que_paso": "Entre enero y setiembre, el 49.4% de las viviendas nuevas vendidas en Lima y Callao tuvo entre 40 y 60 m², según CODIP. Las de dos y tres dormitorios fueron cerca del 78% de las operaciones.",
+      "por_que_importa": "Los materiales de construcción subieron 4.03% de enero a octubre (INEI). Para que el precio final siga al alcance del comprador, las inmobiliarias reducen metros y no dormitorios.",
+      "para_conversar": "El producto estrella es el depa chico pero de tres cuartos: el metraje se ajusta para cuidar el precio total.",
+      "fuente": "https://peruconstruye.net/2026/11/19/lima-y-callao-casi-la-mitad-de-las-viviendas-nuevas-vendidas-tiene-entre-40-y-60-m%C2%B2-como-impactan-los-mayores-costos-de-construccion/"
+    },
+    {
+      "tema": "inmo",
+      "visual": "steps",
+      "titulo": "techo propio: el MEF pone la mitad de lo que falta",
+      "bajada": "S/ 150 millones para un hueco de S/ 330 millones.",
+      "que_paso": "Capeco y CODIP dicen que Techo Propio necesita al menos S/ 330 millones para entregar 6,500 viviendas nuevas ya construidas que esperan su bono. El MEF anunció S/ 150 millones adicionales al Fondo Mivivienda antes de fin de año.",
+      "por_que_importa": "Eso cubre cerca del 45% y deja una brecha de S/ 180 millones. Techo Propio = programa que da un bono (BFH) para que familias de menores ingresos compren vivienda. Sin el bono, la venta no se cierra y la inmobiliaria se queda con el stock.",
+      "para_conversar": "Para 2027 el MEF promete S/ 500 millones desde enero y hasta S/ 1,000 millones en el segundo semestre. La vivienda social depende de que ese dinero llegue a tiempo.",
+      "fuente": "https://www.infobae.com/peru/2026/11/18/techo-propio-mef-anuncia-s150-millones-para-nuevos-bonos-pero-todavia-dejaria-a-6500-familias-sin-vivienda/"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "agentes que revisan hipotecas: 10 millones de tareas",
+      "bajada": "IA haciendo el trabajo de back office de un préstamo.",
+      "que_paso": "Areal, una empresa de EE.UU., dice que sus agentes ya completaron más de 10 millones de tareas en préstamos hipotecarios reales. En junio iban 4 millones.",
+      "por_que_importa": "Cada agente busca el documento correcto en un expediente de cientos de páginas, extrae los datos, los compara con el sistema del banco y deja registro de qué hizo. Si algo no cuadra, se detiene y avisa. Ojo: las cifras son del propio proveedor.",
+      "para_conversar": "El mismo patrón sirve en consultoría inmobiliaria: leer tasaciones, partidas o contratos, sacar los datos y marcar lo que no cuadra, con una persona revisando al final.",
+      "fuente": "https://www.einpresswire.com/article/957724611/areal-s-mortgage-ai-agents-surpass-10-million-executed-tasks-on-production-loans"
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "el dólar vuelve a S/ 3.43",
+      "bajada": "Y en ventanilla de bancos ya ronda S/ 3.49.",
+      "que_paso": "La mañana del jueves 19, el dólar interbancario se vendía a S/ 3.435, por encima de los S/ 3.433 de la jornada previa. En casas de cambio estaba en S/ 3.45 y en las ventanillas virtuales de bancos, en S/ 3.49 en promedio.",
+      "por_que_importa": "Tipo de cambio = cuántos soles cuesta un dólar. En inmobiliario pesa doble: muchos precios de oficinas y terrenos están en dólares, mientras los compradores cobran en soles.",
+      "para_conversar": "La diferencia entre el interbancario y la ventanilla del banco es el margen que te cobran por cambiar. Para montos grandes, conviene comparar.",
+      "fuente": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-jueves-19-noviembre-del-2026-1100651.aspx"
+    },
+    {
+      "tema": "peru",
+      "visual": "dots",
+      "titulo": "US$ 3,987 millones en 100 días",
+      "bajada": "ProInversión hace su balance del nuevo gobierno.",
+      "que_paso": "ProInversión informó compromisos de inversión por US$ 3,987 millones en los primeros 100 días de gobierno, entre APP, Proyectos en Activos y Obras por Impuestos. Solo en Obras por Impuestos fueron 376 intervenciones por S/ 4,632 millones.",
+      "por_que_importa": "APP = el Estado y un privado se asocian para construir y operar una obra. Obras por Impuestos = una empresa hace una obra pública y la descuenta de su impuesto a la renta. Entre los proyectos hay colegios en Lima Sur (US$ 584 millones) y el puerto de San Juan de Marcona (US$ 405 millones).",
+      "para_conversar": "La meta es pasar los S/ 12,000 millones en Obras por Impuestos este año, frente a S/ 5,180 millones en 2025.",
+      "fuente": "https://andina.pe/agencia/noticia-peru-genero-compromisos-inversion-3987-millones-100-dias-gobierno-1100692.aspx"
+    },
+    {
+      "tema": "mundo",
+      "visual": "grid",
+      "titulo": "la Fed se prepara para subir otra vez",
+      "bajada": "Y menciona el boom de la IA como parte del problema.",
+      "que_paso": "Las minutas de la reunión de la Fed de octubre, publicadas el miércoles 18, muestran que dejó la tasa en 3.75%-4% con una votación de 10 a 2. Lisa Cook y Beth Hammack querían subirla 0.25 puntos ya. Algunos hasta abrieron la puerta a un alza mayor en diciembre.",
+      "por_que_importa": "Fed = el banco central de EE.UU. Cuando sube tasas, el dinero se encarece en todo el mundo, incluido el crédito en Perú. El S&P 500 cerró el miércoles en 7,323.63, su quinta caída seguida.",
+      "para_conversar": "Las minutas citan el boom de inversión en IA (data centers) como una de las razones para seguir subiendo tasas. La IA ya no es solo tema de tecnología: también mueve la política monetaria.",
+      "fuente": "https://startupfortune.com/fed-minutes-name-the-ai-buildout-as-a-reason-more-rate-hikes-are-coming/"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "¿Qué parte de las viviendas nuevas vendidas en Lima y Callao (ene-set) mide entre 40 y 60 m²?",
+      "a": "El 49.4%, según CODIP."
+    },
+    {
+      "q": "¿Cuánto falta para Techo Propio después del aporte del MEF?",
+      "a": "S/ 180 millones: se necesitan S/ 330 millones y el MEF puso S/ 150 millones."
+    },
+    {
+      "q": "¿Dónde ve BofA la tasa del BCR en 2027?",
+      "a": "En 4.75%, desde el 4.50% actual."
+    },
+    {
+      "q": "¿Qué es Obras por Impuestos?",
+      "a": "Una empresa construye una obra pública y la descuenta de su impuesto a la renta."
+    },
+    {
+      "q": "¿Cuántos compromisos de inversión reportó ProInversión en 100 días de gobierno?",
+      "a": "US$ 3,987 millones entre APP, Proyectos en Activos y Obras por Impuestos."
+    },
+    {
+      "q": "¿En qué rango está la tasa de la Fed?",
+      "a": "3.75% a 4%. Dos miembros ya votaron por subirla."
+    },
+    {
+      "q": "¿Qué hace un agente de IA en un préstamo hipotecario?",
+      "a": "Busca el documento, extrae los datos, los compara con el sistema y marca lo que no cuadra."
+    }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
