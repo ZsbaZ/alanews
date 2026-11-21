@@ -1,7 +1,32 @@
 {
   "ediciones": [
-    {"numero": "002", "fecha_corta": "20 nov", "dia": "vie", "titular": "Bank of America cree que el BCR todavía no termina de subir la tasa", "archivo": "ediciones/002.json"},
-    {"numero": "001", "fecha_corta": "17 nov", "dia": "mar", "titular": "El BCR subió la tasa por primera vez desde 2023: qué significa para ti", "archivo": "ediciones/001.json"},
-    {"numero": "000", "fecha_corta": "16 nov", "dia": "lun", "titular": "Qué mueve el precio de un departamento en Lima", "archivo": "ediciones/000.json"}
+    {
+      "numero": "003",
+      "fecha_corta": "21 nov",
+      "dia": "sáb",
+      "titular": "FIBRA Prime levanta US$ 40 millones en la Bolsa de Lima para bajar su deuda",
+      "archivo": "ediciones/003.json"
+    },
+    {
+      "numero": "002",
+      "fecha_corta": "20 nov",
+      "dia": "vie",
+      "titular": "Bank of America cree que el BCR todavía no termina de subir la tasa",
+      "archivo": "ediciones/002.json"
+    },
+    {
+      "numero": "001",
+      "fecha_corta": "17 nov",
+      "dia": "mar",
+      "titular": "El BCR subió la tasa por primera vez desde 2023: qué significa para ti",
+      "archivo": "ediciones/001.json"
+    },
+    {
+      "numero": "000",
+      "fecha_corta": "16 nov",
+      "dia": "lun",
+      "titular": "Qué mueve el precio de un departamento en Lima",
+      "archivo": "ediciones/000.json"
+    }
   ]
 }

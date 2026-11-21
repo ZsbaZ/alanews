@@ -1,0 +1,89 @@
+{
+  "numero": "003",
+  "fecha": "2026-11-21",
+  "fecha_texto": "sábado 21 nov 2026",
+  "fecha_corta": "21 nov",
+  "nota_edicion": "Hoy no llegaron newsletters de Gestión ni El Comercio al correo: todo sale de fuentes abiertas.",
+  "portada": {
+    "tema": "inmo",
+    "minutos": 4,
+    "titular": "FIBRA Prime levanta US$ 40 millones en la Bolsa de Lima para bajar su deuda",
+    "que_paso": "En su sexta colocación, FIBRA Prime recaudó US$ 40.37 millones: US$ 5.73 millones por suscripción preferente y US$ 34.64 millones por oferta pública. La plata va sobre todo a prepagar parte del préstamo puente de Scotiabank y BCI con el que compró el Parque Logístico Lima Sur, valorizado en US$ 145 millones.",
+    "por_que_importa": "FIBRA = un vehículo que compra inmuebles que generan renta (oficinas, locales, almacenes) y reparte esas rentas entre quienes compran sus certificados en bolsa. Es otra forma de financiar inmobiliario: en vez de solo deuda bancaria, se levanta capital en el mercado.",
+    "zoom": "Las personas naturales pusieron US$ 10.78 millones, el 31.1% de la oferta pública. El portafolio ya supera los US$ 400 millones y paga distribuciones mensuales en dólares, pero el monto no es fijo. Ojo: la nota se basa en un comunicado de la empresa.",
+    "para_conversar": "Que casi un tercio venga de personas naturales dice que el inversionista de a pie ya mira la renta inmobiliaria en bolsa como alternativa a comprarse un depa para alquilar."
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "32,762 viviendas nuevas: el año récord según credicorp",
+      "bajada": "Cinco veces lo que se vendía en 2017.",
+      "que_paso": "Credicorp Capital proyecta que en 2026 se venderán 32,762 viviendas nuevas en Lima Metropolitana, 22% más que las 26,784 de 2025. En 2017 se vendieron 6,494. (Dato del 17-18 de noviembre.)",
+      "por_que_importa": "Es mucho, pero no alcanza: para empezar a reducir el déficit de vivienda harían falta entre 200,000 y 250,000 ventas al año.",
+      "para_conversar": "El mercado vive su mejor momento y aun así cubre una fracción de lo que se necesita. La oportunidad está en el segmento que todavía no compra.",
+      "fuente": "https://revista.costosperu.com/noticias/viviendas-nuevas-en-lima-32-762-ventas-en-2026/"
+    },
+    {
+      "tema": "inmo",
+      "visual": "dots",
+      "titulo": "casa 18: miraflores y ahora lima moderna",
+      "bajada": "US$ 39 millones para cinco proyectos.",
+      "que_paso": "Según Gestión, Casa 18 alista US$ 39 millones para cinco proyectos en Miraflores y entra a Lima Moderna con una nueva marca. En 2027 lanzará cuatro proyectos de vivienda y un edificio de oficinas.",
+      "por_que_importa": "Lima Moderna = distritos como Jesús María, Lince, Magdalena o Surquillo, donde el m² suele ser más barato que en Miraflores. Apostar a las dos zonas es diversificar público.",
+      "para_conversar": "La nota es para suscriptores: solo vi el titular y la bajada. Conviene leerla completa en Gestión para ver distritos y precios.",
+      "fuente": "https://gestion.pe/economia/empresas/casa-18-va-por-us-30-mlls-en-ventas-en-2027-y-entra-a-lima-moderna-con-nueva-marca-noticia/"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "50 agentes de ia en una sola firma inmobiliaria",
+      "bajada": "Lo que contaron en un foro de real estate en EE.UU.",
+      "que_paso": "En un foro de Commercial Observer (19 nov), Lisa Picard, de Oxygen Investment Management, dijo que su firma ya armó unos 50 agentes de IA para distintas tareas. Uno, de ingeniería estructural, estimó en 30 segundos si un arreglo costaría US$ 1 millón o US$ 15 millones, algo que normalmente toma un par de semanas.",
+      "por_que_importa": "JLL usa un agente llamado Cadastral para sacar datos de contratos de arriendo; según JLL, alguien que no es especialista puede cargarlos. Agente de IA = un programa que hace una tarea completa por su cuenta, no solo responde preguntas.",
+      "para_conversar": "El matiz del foro: medir el retorno es difícil, porque probar software cuesta. Igual, leer contratos y sacar datos es justo el tipo de trabajo que en asesoría inmobiliaria se puede delegar.",
+      "fuente": "https://commercialobserver.com/2026/11/ai-risks-commercial-real-estate-forum/"
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "el dólar se queda en S/ 3.45",
+      "bajada": "Y en ventanilla de bancos ya pasa los S/ 3.50.",
+      "que_paso": "La mañana del viernes 20, el dólar interbancario se vendía a S/ 3.447, apenas debajo de los S/ 3.451 de la sesión previa. En casas de cambio estaba en S/ 3.45 y en las ventanillas de bancos, en S/ 3.51 en promedio.",
+      "por_que_importa": "Interbancario = el precio al que se cambian dólares entre bancos; es la referencia. En inmobiliario pesa porque muchos precios de oficinas y terrenos están en dólares.",
+      "para_conversar": "Entre el interbancario y la ventanilla hay unos 6 céntimos por dólar. En la compra de un depa en dólares, esa diferencia ya se nota.",
+      "fuente": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-viernes-20-noviembre-del-2026-1100787.aspx"
+    },
+    {
+      "tema": "peru",
+      "visual": "steps",
+      "titulo": "más de 3,000 obras sin terminar",
+      "bajada": "IPAE dice que destrabarlas llevaría al Perú a crecer 6%.",
+      "que_paso": "Antes de CADE Ejecutivos 2026, Gonzalo Galdos, presidente de IPAE, dijo que el Perú podría crecer 6% en unos tres años si destraba proyectos. Según él, hay más de 3,000 proyectos importantes inconclusos.",
+      "por_que_importa": "Pide acelerar obras públicas y Obras por Impuestos (una empresa hace una obra pública y la descuenta de su impuesto a la renta). Si el gobierno termina su mandato, ve posible crecer por encima de 4 o 5%.",
+      "para_conversar": "Más crecimiento = más empleo y más demanda de vivienda y oficinas. Por eso a una consultora inmobiliaria le importa que se destraben obras.",
+      "fuente": "https://larepublica.pe/economia/2026/11/20/gonzalo-galdos-peru-necesita-destrabar-proyectos-para-alcanzar-un-crecimiento-de-6-en-tres-anos-hnews-381680"
+    },
+    {
+      "tema": "mundo",
+      "visual": "grid",
+      "titulo": "viernes negro para la ia en wall street",
+      "bajada": "El Nasdaq tuvo su peor semana desde la pandemia.",
+      "que_paso": "El viernes 20 el Nasdaq se desplomó 5.28%, el S&P 500 bajó 3.7% y el Dow Jones perdió 1.94%. La presión vino de las acciones tecnológicas ligadas a la inteligencia artificial.",
+      "por_que_importa": "Nasdaq = índice lleno de empresas tecnológicas. El miedo es que las enormes inversiones en IA (chips, data centers) no rindan lo suficiente. Cuando Wall Street cae fuerte, los inversionistas buscan refugio y eso puede mover el dólar y los metales.",
+      "para_conversar": "El boom de la IA también es un tema de riesgo financiero: si se corrige, golpea a fondos, AFP y bolsas de todo el mundo.",
+      "fuente": "https://www.infobae.com/estados-unidos/2026/11/20/wall-street-cerro-con-fuertes-caidas-por-las-preocupaciones-sobre-la-ia-el-nasdaq-tuvo-su-peor-semana-desde-la-pandemia/"
+    }
+  ],
+  "flashcards": [
+    { "q": "¿Qué es una FIBRA?", "a": "Un vehículo que compra inmuebles que generan renta y reparte esas rentas entre quienes compran sus certificados en bolsa." },
+    { "q": "¿Cuánto recaudó FIBRA Prime en su sexta colocación?", "a": "US$ 40.37 millones, sobre todo para prepagar el préstamo del Parque Logístico Lima Sur." },
+    { "q": "¿Cuántas viviendas nuevas proyecta vender Lima en 2026, según Credicorp Capital?", "a": "32,762, 22% más que en 2025." },
+    { "q": "¿Cuántas ventas al año harían falta para empezar a reducir el déficit de vivienda?", "a": "Entre 200,000 y 250,000." },
+    { "q": "¿Qué hace el agente Cadastral que usa JLL?", "a": "Saca datos de contratos de arriendo." },
+    { "q": "¿Cuántos proyectos importantes inconclusos ve IPAE en el Perú?", "a": "Más de 3,000." },
+    { "q": "¿Cuánto cayó el Nasdaq el viernes 20 de noviembre?", "a": "5.28%, por el miedo a que la inversión en IA no rinda." }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
