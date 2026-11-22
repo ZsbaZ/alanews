@@ -1,6 +1,13 @@
 {
   "ediciones": [
     {
+      "numero": "004",
+      "fecha_corta": "22 nov",
+      "dia": "dom",
+      "titular": "La tasa del BCR ya subió: ahora le toca al crédito hipotecario",
+      "archivo": "ediciones/004.json"
+    },
+    {
       "numero": "003",
       "fecha_corta": "21 nov",
       "dia": "sáb",

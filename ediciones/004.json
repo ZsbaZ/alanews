@@ -1,0 +1,89 @@
+{
+  "numero": "004",
+  "fecha": "2026-11-22",
+  "fecha_texto": "domingo 22 nov 2026",
+  "fecha_corta": "22 nov",
+  "nota_edicion": "Domingo flojo de noticias y sin newsletters de Gestión ni El Comercio en el correo. Algunas notas son del miércoles al sábado; te pongo la fecha.",
+  "portada": {
+    "tema": "fin",
+    "minutos": 4,
+    "titular": "La tasa del BCR ya subió: ahora le toca al crédito hipotecario",
+    "que_paso": "El 12 de noviembre el BCRP subió su tasa de referencia de 4.25% a 4.50%, porque la inflación de Lima llegó a 5.25% en octubre. Este sábado Gestión publicó que esa alza es una mala noticia para quienes van a comprar vivienda, con las tasas que hoy cobran los bancos. La nota es para suscriptores: conviene leerla completa en Gestión.",
+    "por_que_importa": "Tasa de referencia = el interés que el BCRP usa para guiar el costo del crédito. Si sube, los bancos tienden a cobrar más por prestar, y una hipoteca a 20 años se siente en la cuota. Menos gente califica y algunos compradores se esperan.",
+    "zoom": "El crédito hipotecario venía bien: creció 7.8% anual a setiembre y su saldo llegó a S/ 79,038 millones, según el BCR. En soles sube 8.4%; en dólares cae 22.8%. La próxima reunión del BCRP es el 10 de diciembre.",
+    "para_conversar": "El año de ventas récord se cierra con crédito algo más caro. La pregunta para 2027 es si los compradores siguen o se frenan a esperar tasas más bajas.",
+    "fuente": "https://gestion.pe/tu-dinero/inmobiliarias/alza-de-la-tasa-del-bcrp-trae-una-mala-noticia-para-quienes-compraran-una-vivienda-por-que-noticia/"
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "dots",
+      "titulo": "grupo sandoval se queda con todo koricancha",
+      "bajada": "Logística y oficinas junto al aeropuerto.",
+      "que_paso": "Grupo Sandoval compró el 36% de Koricancha Inmologística que tenía el fondo AC Capitales. Ya tenía el 64%, así que ahora es dueño del 100%. La empresa administra más de 100,000 m² de infraestructura corporativa y logística. (Nota de Gestión del jueves 19.)",
+      "por_que_importa": "Su próxima apuesta es un edificio corporativo en la Nueva Ciudad Aeropuerto: unos US$ 21 millones, más de 12,000 m² de oficinas para alquilar, obras desde noviembre de 2026 y operación a inicios de 2028.",
+      "para_conversar": "La zona del aeropuerto se está volviendo un polo de oficinas y logística, no solo de carga. Ojo a lo que pasa con la renta en el Callao.",
+      "fuente": "https://gestion.pe/economia/empresas/grupo-sandoval-toma-el-control-total-de-koricancha-tras-adquirir-el-36-restante-noticia/"
+    },
+    {
+      "tema": "inmo",
+      "visual": "steps",
+      "titulo": "petroperú remata inmuebles en piura",
+      "bajada": "Tercera subasta: 9 inmuebles por US$ 9.6 millones.",
+      "que_paso": "El sábado 21 Andina informó que se lanzó la tercera subasta de inmuebles de Petroperú: 9 propiedades en Piura por US$ 9.6 millones. Es parte del plan para vender activos que no son clave para la petrolera.",
+      "por_que_importa": "Activo no estratégico = un terreno o edificio que la empresa no necesita para su negocio principal. Venderlo le da caja a la petrolera, y para el mercado son terrenos que pueden pasar a manos privadas.",
+      "para_conversar": "Solo pude ver el titular de Andina, no el detalle de cada inmueble. Si te interesa Piura, revisa la nota completa en Andina.",
+      "fuente": "https://andina.pe/agencia/noticia-lanzan-tercera-subasta-petroperu-sobre-9-inmuebles-piura-96-millones-1100932.aspx"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "10 agentes de ia para tasar inmuebles en corea",
+      "bajada": "El ente que publica precios oficiales de propiedades.",
+      "que_paso": "El Korea Real Estate Board, la entidad pública que fija y publica precios de propiedades en Corea del Sur, armó una plataforma con 10 agentes de IA. Empieza con la divulgación de precios de inmuebles y luego pasa a estadísticas, normas internas y edificación verde. De 31 proyectos de IA que identificó, ejecutará 8. (Nota del 17 de noviembre.)",
+      "por_que_importa": "Agente de IA = un programa que hace una tarea completa por su cuenta. Aquí la usan justo en lo más parecido a asesoría inmobiliaria: ordenar datos de precios y publicarlos.",
+      "para_conversar": "Buena idea para copiar en chico: un agente que junte precios por m² de varios portales y arme el cuadro de comparables que hoy se hace a mano.",
+      "fuente": "https://en.sedaily.com/realestate/2026/11/17/korea-real-estate-board-builds-ai-agent-platform-for"
+    },
+    {
+      "tema": "fin",
+      "visual": "bars",
+      "titulo": "el oro se cae 4% en un día",
+      "bajada": "Mala noticia para el segundo metal que más exportamos.",
+      "que_paso": "El viernes 20 el oro cerró en unos US$ 3,521 la onza, 4% menos en el día, según el resumen económico de The Rio Times. Fue el mismo día en que Wall Street se hundió por las dudas sobre la IA.",
+      "por_que_importa": "Onza = unos 31 gramos. El oro es el segundo producto minero de exportación del Perú. Si baja, entran menos dólares y el Estado recauda menos.",
+      "para_conversar": "El oro suele subir cuando hay miedo, pero esta vez cayó junto con las bolsas. Cuando las tasas en EE.UU. están altas, el oro (que no paga intereses) pierde atractivo.",
+      "fuente": "https://www.riotimesonline.com/global-economy-briefing-november-21-2026/"
+    },
+    {
+      "tema": "peru",
+      "visual": "steps",
+      "titulo": "más ayuda para mypes por el niño",
+      "bajada": "Garantías de hasta S/ 2,000 millones del Fondo Crecer.",
+      "que_paso": "El sábado 21 Andina informó que el gobierno activó nuevas garantías y facilidades de pago para mypes ante El Niño. Se suma al decreto de fines de octubre que autorizó hasta S/ 2,000 millones del Fondo Crecer: el Estado cubre hasta 90% de créditos de hasta S/ 30,000.",
+      "por_que_importa": "Garantía = el Estado le promete al banco pagar parte del préstamo si la mype no puede. Así el banco presta más y más barato. Las mypes también pueden reprogramar deudas hasta el 30 de abril de 2027.",
+      "para_conversar": "El Niño ya pesa en la banca y en la construcción. Estas garantías buscan que las lluvias no se conviertan en una ola de deudas impagas.",
+      "fuente": "https://elperuano.pe/noticia/308054-fenomeno-el-nino-gobierno-activa-s2000-millones-en-garantias-para-proteger-a-las-mype"
+    },
+    {
+      "tema": "mundo",
+      "visual": "curve",
+      "titulo": "en ee.uu. esperan menos inflación",
+      "bajada": "Pero la Fed sigue con ganas de subir tasas.",
+      "que_paso": "La encuesta de la Universidad de Michigan de noviembre mostró que los consumidores esperan una inflación de 3.7% en el próximo año, menos que el 4.7% del mes anterior. El índice de confianza subió a 51.5, desde 48. Al mismo tiempo, las actas de la Fed de octubre dejan abierta la puerta a nuevas subidas.",
+      "por_que_importa": "Fed = el banco central de EE.UU. Si la gente espera menos inflación, la Fed tiene menos apuro para subir tasas. Eso importa al Perú porque tasas altas allá fortalecen al dólar y encarecen el crédito acá.",
+      "para_conversar": "Señales mixtas: el consumidor se calma, pero la Fed no. Diciembre será clave para el dólar y para el BCRP.",
+      "fuente": "https://www.riotimesonline.com/global-economy-briefing-november-21-2026/"
+    }
+  ],
+  "flashcards": [
+    { "q": "¿A cuánto subió el BCRP su tasa de referencia el 12 de noviembre?", "a": "De 4.25% a 4.50%. La próxima reunión es el 10 de diciembre." },
+    { "q": "¿Cuánto creció el crédito hipotecario a setiembre, según el BCR?", "a": "7.8% anual, con un saldo de S/ 79,038 millones." },
+    { "q": "¿Qué es un activo no estratégico?", "a": "Un inmueble o bien que la empresa no necesita para su negocio principal y que puede vender." },
+    { "q": "¿Qué compró Grupo Sandoval?", "a": "El 36% de Koricancha Inmologística que tenía AC Capitales. Ahora tiene el 100%." },
+    { "q": "¿Cuántos agentes de IA lanzó el Korea Real Estate Board?", "a": "10, empezando por la divulgación de precios de inmuebles." },
+    { "q": "¿Qué cubre la garantía del Fondo Crecer para mypes?", "a": "Hasta 90% de créditos de hasta S/ 30,000, dentro de un fondo de hasta S/ 2,000 millones." }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
