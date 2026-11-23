@@ -1,6 +1,13 @@
 {
   "ediciones": [
     {
+      "numero": "005",
+      "fecha_corta": "23 nov",
+      "dia": "lun",
+      "titular": "Moody's ve a las empresas peruanas sólidas para 2027, pero 4 de cada 10 quemarán caja",
+      "archivo": "ediciones/005.json"
+    },
+    {
       "numero": "004",
       "fecha_corta": "22 nov",
       "dia": "dom",

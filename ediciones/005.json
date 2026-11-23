@@ -1,0 +1,90 @@
+{
+  "numero": "005",
+  "fecha": "2026-11-23",
+  "fecha_texto": "lunes 23 nov 2026",
+  "fecha_corta": "23 nov",
+  "nota_edicion": "Lunes después de un fin de semana flojo y sin newsletters de Gestión ni El Comercio en el correo. Las dos notas inmobiliarias son del 17 y 18 de noviembre; te pongo la fecha.",
+  "portada": {
+    "tema": "fin",
+    "minutos": 4,
+    "titular": "Moody's ve a las empresas peruanas sólidas para 2027, pero 4 de cada 10 quemarán caja",
+    "que_paso": "El domingo 22 Infobae publicó la mirada de Moody's Ratings para 2027. Para las empresas peruanas no financieras proyecta una deuda mediana de 2.4 veces su EBITDA y una cobertura de intereses de 6 veces. Pero el 40% de los emisores consumirá efectivo y más de un tercio tendrá menos caja que su deuda de corto plazo.",
+    "por_que_importa": "EBITDA = la ganancia de operar el negocio antes de intereses, impuestos y depreciación. Apalancamiento de 2.4 veces = la deuda equivale a unos dos años y medio de esa ganancia. Si muchas empresas queman caja justo cuando el BCRP sube la tasa, refinanciar sale más caro, y eso pesa en quien quiere comprar o desarrollar inmuebles.",
+    "zoom": "La gran excepción es Petroperú: calificación Caa1 con perspectiva positiva, pérdidas y liquidez débil. En minería, Moody's cuenta 66 proyectos por US$ 64 mil millones, y la inversión minera subió 43% en el primer semestre de 2026.",
+    "para_conversar": "El cuadro general es sano, pero la caja manda. En un cliente, antes que la utilidad, mira cuánta deuda vence este año y con qué la va a pagar.",
+    "fuente": "https://www.infobae.com/peru/2026/11/22/moodys-preve-solidez-crediticia-para-las-empresas-peruanas-en-2027-pero-con-una-gran-excepcion/"
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "lima vendería 32,762 viviendas nuevas este año",
+      "bajada": "22% más que en 2025, según Credicorp Capital.",
+      "que_paso": "Credicorp Capital proyecta que en Lima Metropolitana se venderán 32,762 viviendas nuevas al cierre de 2026, frente a 26,784 en 2025. Las ventas venían de 17,000 unidades en 2023. (Nota de Andina del martes 17.)",
+      "por_que_importa": "Es cinco veces lo que se vendió en 2017 (6,494 viviendas). Aun así, la misma nota dice que para cerrar el déficit habitacional harían falta entre 200,000 y 250,000 ventas al año.",
+      "para_conversar": "Año récord, sí, pero lejos de lo que el país necesita. La pregunta para 2027 es si el crédito más caro frena este ritmo.",
+      "fuente": "https://andina.pe/agencia/noticia-viviendas-nuevas-vendidas-superaran-las-32000-unidades-y-creceran-22-este-ano-lima-1100373.aspx"
+    },
+    {
+      "tema": "inmo",
+      "visual": "grid",
+      "titulo": "faltan oficinas clase a grandes en lima",
+      "bajada": "La vacancia baja a 7% y casi no hay oferta nueva.",
+      "que_paso": "Según Cushman & Wakefield, citado por Forbes Perú el miércoles 18, la vacancia de oficinas clase A bajó a 7%. En el tercer trimestre la absorción neta fue de 18,751 m², y en el año suma 53,809 m² a septiembre. Miraflores bajó su vacancia de 12.4% a 7.8% y Surco de 12.2% a 9.9%.",
+      "por_que_importa": "Absorción neta = cuántos m² se ocuparon menos los que se liberaron. Vacancia = el porcentaje de oficinas vacías. Hay 53,903 m² en construcción, casi todo en San Isidro Financiero (38,559 m²). Lo único que entra este año es el Edificio Tamayo, con más de 9,000 m².",
+      "para_conversar": "Cushman cree que la absorción se puede moderar, pero por falta de oficinas adecuadas, no por falta de demanda. Con poca oferta, las rentas tienden a subir.",
+      "fuente": "https://forbes.pe/negocios/2026-11-18/oficinas-clase-a-estos-submercados-en-lima-ganan-terreno-ante-una-oferta-cada-vez-mas-acotada"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "un agente que no espera la pregunta",
+      "bajada": "BrokerBot 2.0 y un test que puntúa casas para cada comprador.",
+      "que_paso": "BrokerBot lanzó su versión 2.0, que conecta la IA con los documentos, personas y flujos de una inmobiliaria y se adelanta a hacer tareas. Tiene más de 45,000 usuarios y recibió inversión de la asociación de corredores de California. En paralelo, HouseQuest lanzó HiQ: un cuestionario de 20 a 30 preguntas arma el perfil del comprador en 14 dimensiones y le da a cada casa un puntaje de match. (Real Estate News, jueves 19.)",
+      "por_que_importa": "Agente de IA = un programa que hace tareas completas por su cuenta, no solo responde. Son casos reales de lo que se puede automatizar en asesoría inmobiliaria: ordenar información interna y cruzar lo que pide el cliente con la oferta.",
+      "para_conversar": "Idea para probar en chico: arma con IA un perfil del cliente (presupuesto, zona, metraje) y pídele que puntúe una lista de proyectos. Tú revisas el resultado.",
+      "fuente": "https://www.realestatenews.com/2026/11/19/brokerbot-2-0-launches-housequest-adds-buyer-home-match-tool"
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "el dólar sube a s/ 3.458",
+      "bajada": "Cierre del viernes 20, según el BCRP.",
+      "que_paso": "El viernes 20 el dólar cerró en S/ 3.4580 en el mercado interbancario, según el BCRP, citado por El Comercio. Había abierto en S/ 3.4550. El fin de semana en el paralelo se movía entre S/ 3.43 y S/ 3.46.",
+      "por_que_importa": "Tipo de cambio = cuántos soles cuesta un dólar. Fue el mismo día en que Wall Street se desplomó: cuando hay miedo, los inversionistas buscan dólares. En inmobiliario importa porque muchas oficinas y locales se alquilan en dólares.",
+      "para_conversar": "Si el ruido global sigue, el dólar podría seguir presionado esta semana. Útil para quien negocia alquileres en dólares.",
+      "fuente": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-cuanto-esta-el-dolar-este-domingo-22-de-noviembre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/"
+    },
+    {
+      "tema": "peru",
+      "visual": "dots",
+      "titulo": "perú podría comerciar con el 88% del pbi mundial",
+      "bajada": "Si entran en vigor los acuerdos pendientes, dice el IPE.",
+      "que_paso": "En una nota del domingo 22 en El Comercio, el IPE cuenta que hay tres acuerdos comerciales por entrar en vigor y seis en negociación. Con ellos, el Perú pasaría de tener acuerdos con países que suman 72% del PBI mundial a 88%. El BCRP estima exportaciones por US$ 120 mil millones en 2026.",
+      "por_que_importa": "Ojo con la letra chica: en 2026 el valor exportado crecería 28.1% por precios, pero el volumen caería 0.4%. Asia ya es el 49% de nuestro comercio, y con Tailandia el acceso preferencial pasaría de 66% a 94% de los productos.",
+      "para_conversar": "Más acuerdos abren la puerta, pero sin vender más volumen seguimos dependiendo del precio de los metales.",
+      "fuente": "https://elcomercio.pe/economia/peru/acuerdos-comerciales-conectarian-al-peru-con-88-del-pbi-mundial-noticia/"
+    },
+    {
+      "tema": "mundo",
+      "visual": "bars",
+      "titulo": "wall street tuvo su peor semana en años",
+      "bajada": "La IA dejó de ser el motor y pasó a ser el miedo.",
+      "que_paso": "El viernes el Nasdaq cayó 5.28% y el S&P 500, 3.7%. En la semana el Nasdaq perdió cerca de 10%, su peor caída en más de seis años, y el Dow 8%, la peor semana desde marzo de 2020. Nvidia cayó cerca de 14% en el día. El lunes temprano el Nikkei de Japón bajaba 5.06%.",
+      "por_que_importa": "Nasdaq = el índice de las tecnológicas de EE.UU. Cuando cae tanto, los inversionistas huyen del riesgo: compran dólares, venden metales y piden más interés para prestar. Eso llega al Perú como un dólar más caro y crédito más difícil.",
+      "para_conversar": "La pregunta de la semana: ¿es una corrección sana después del boom de la IA o el inicio de algo más largo?",
+      "fuente": "https://www.ic.com/blog/wall-street-suffers-worst-weekly-decline-in-years-23-november-2026-ic/"
+    }
+  ],
+  "flashcards": [
+    { "q": "¿Qué apalancamiento proyecta Moody's para las empresas peruanas en 2027?", "a": "Una mediana de 2.4 veces deuda sobre EBITDA, con cobertura de intereses de 6 veces." },
+    { "q": "¿Qué porcentaje de emisores peruanos consumirá caja, según Moody's?", "a": "El 40%." },
+    { "q": "¿Cuántas viviendas nuevas se venderían en Lima en 2026, según Credicorp Capital?", "a": "32,762, un 22% más que las 26,784 de 2025." },
+    { "q": "¿Qué es la absorción neta en oficinas?", "a": "Los m² que se ocuparon menos los que se liberaron en un periodo." },
+    { "q": "¿A cuánto bajó la vacancia de oficinas clase A en Lima?", "a": "A 7%, según Cushman & Wakefield." },
+    { "q": "¿En cuánto cerró el dólar el viernes 20 de noviembre?", "a": "S/ 3.4580 en el interbancario, según el BCRP." },
+    { "q": "¿Cuánto cayó el Nasdaq en la semana del 16 al 20 de noviembre?", "a": "Cerca de 10%, su peor semana en más de seis años." }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
