@@ -1,6 +1,13 @@
 {
   "ediciones": [
     {
+      "numero": "006",
+      "fecha_corta": "24 nov",
+      "dia": "mar",
+      "titular": "La construcción crece 9.7% y jala al PBI en el tercer trimestre",
+      "archivo": "ediciones/006.json"
+    },
+    {
       "numero": "005",
       "fecha_corta": "23 nov",
       "dia": "lun",

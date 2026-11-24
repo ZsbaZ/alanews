@@ -1,0 +1,90 @@
+{
+  "numero": "006",
+  "fecha": "2026-11-24",
+  "fecha_texto": "martes 24 nov 2026",
+  "fecha_corta": "24 nov",
+  "nota_edicion": "Otra vez sin newsletters de Gestión ni El Comercio en el correo; todo viene de fuentes abiertas del lunes 23 y martes 24 (la de AFP es del domingo 22).",
+  "portada": {
+    "tema": "peru",
+    "minutos": 4,
+    "titular": "La construcción crece 9.7% y jala al PBI en el tercer trimestre",
+    "que_paso": "El INEI informó el lunes 23 que la economía creció 3.1% entre julio y septiembre, y 3.2% en lo que va del año. El sector que más avanzó fue construcción: 9.7%. La inversión privada subió 12.4% y la inversión bruta fija, 10.8%.",
+    "por_que_importa": "Inversión bruta fija = lo que se gasta en edificios, obras, maquinaria y equipos. Cuando sube a doble dígito, hay más proyectos en marcha y más demanda por terrenos, oficinas y vivienda. Es justo el terreno de tu trabajo.",
+    "zoom": "No todo brilla: minería e hidrocarburos cayeron 3.9%, pesca 15.2% y el agro 0.1%. Lo que empuja es la demanda interna: el consumo de los hogares creció 3.5% y el comercio 6.7%.",
+    "para_conversar": "El crecimiento viene de construir y consumir, no de la mina. La duda para 2027 es si esa inversión aguanta con la tasa del BCRP más alta.",
+    "fuente": "https://www.infobae.com/america/agencias/2026/11/24/el-pib-de-peru-crece-31-en-el-tercer-trimestre-y-llega-a-32-hasta-septiembre-de-2026/"
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "dots",
+      "titulo": "las inmobiliarias chilenas siguen apostando por lima",
+      "bajada": "Echeverría Izquierdo alista US$ 180 millones para 2027.",
+      "que_paso": "Según DF (Chile), el lunes 23: Echeverría Izquierdo, con su marca Senda, iniciará proyectos en Perú en 2027 por US$ 180 millones. Paz Corp tiene 16 proyectos residenciales aquí y entregó 575 unidades entre enero y septiembre (22.1% más). Besco, de Besalco, entregó 475 departamentos (23.4% más).",
+      "por_que_importa": "Perú ya pesa en sus números: para Echeverría es cerca de un tercio de los ingresos de su negocio inmobiliario, y Paz espera que llegue a 30% a largo plazo. Se concentran en Lima Top y Lima Moderna.",
+      "para_conversar": "Si los chilenos, que conocen bien los ciclos, siguen comprando terreno en Lima, es una señal de confianza en la demanda de vivienda.",
+      "fuente": "https://www.df.cl/df-sud/inmobiliarias-chilenas-mantienen-su-apuesta-por-peru-y-aumentan-su"
+    },
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "urbana perú quiere vender 173% más en 2027",
+      "bajada": "De 390 a 670 viviendas, y vuelve a Lima Top.",
+      "que_paso": "Urbana Perú cerraría 2026 con 390 unidades vendidas, S/ 180 millones facturados y una utilidad cercana a S/ 17 millones. Para 2027 apunta a 670 unidades y destinará unos US$ 28 millones a comprar terrenos. Este mes lanza un proyecto en Magdalena y dos en Surquillo. (Revista Economía, lunes 23.)",
+      "por_que_importa": "Su gerente cuenta que las ventas se recuperaron desde julio, tras un primer semestre con compradores más cautos. Y que el financiamiento pesa cada vez más en la decisión de compra.",
+      "para_conversar": "Busca 3 o 4 lotes antes de fin de año en distritos como Jesús María, Miraflores, San Isidro, Surco, Lince y Barranco. La competencia por terreno sigue fuerte.",
+      "fuente": "https://www.revistaeconomia.com/urbana-peru-proyecta-crecimiento-de-173-en-ventas-y-prepara-nuevos-proyectos-para-2027/"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "1.13 millones de tareas hechas por ia en un mes",
+      "bajada": "Lo que ya automatizan los corredores en EE.UU.",
+      "que_paso": "HousingWire juntó el lunes 23 ocho novedades de tecnología inmobiliaria. La más concreta: la IA de Lofty, un CRM para agentes, completó 1.13 millones de tareas en octubre y ahorró unas 131,248 horas. Zillow lanzó BuyAbility, que verifica el crédito del comprador sin afectar su score.",
+      "por_que_importa": "CRM = el sistema donde se guardan los clientes y su historial. El dato que explica todo: 81% de agentes dice que adopta tecnología para ahorrar tiempo (reporte de NAR 2026). La IA se usa en lo repetitivo: seguimiento, recordatorios, filtros de clientes.",
+      "para_conversar": "Prueba esto: anota cuántas horas a la semana se te van en tareas repetidas (bajar data, armar tablas, mandar correos). Esa lista es tu mapa de qué automatizar primero.",
+      "fuente": "https://www.housingwire.com/articles/real-estate-tech-ai-payments/"
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "vuelven los proyectos para retirar afp y cts",
+      "bajada": "Hasta S/ 22,000 de la AFP, con El Niño como argumento.",
+      "que_paso": "Dos proyectos de ley en el Congreso: uno permitiría retirar hasta S/ 22,000 de la AFP y otro extendería hasta 2028 la opción de sacar el 100% de la CTS. La CCL calcula que los retiros ya superan S/ 152,000 millones. (El Comercio, domingo 22.)",
+      "por_que_importa": "Los ocho retiros de AFP entre 2020 y 2025 sumaron unos S/ 140,000 millones, 13% del PBI. Con menos fondos, las AFP compran menos bonos del Estado: su participación bajó de 27% en 2019 a 8% en 2025. Menos compradores locales puede encarecer la deuda en soles, y con ella el crédito de largo plazo.",
+      "para_conversar": "El MEF se opone y el BCRP y la SBS tienen reparos técnicos. Ojo: la CTS en el sistema cayó 57% desde 2019, de S/ 20,934 a S/ 9,014 millones.",
+      "fuente": "https://elcomercio.pe/economia/peru/nuevos-retiros-de-afp-y-cts-es-el-nino-una-razon-suficiente-para-liberar-los-fondos-noticia/"
+    },
+    {
+      "tema": "peru",
+      "visual": "grid",
+      "titulo": "perú se vende como puerto entre sudamérica y asia",
+      "bajada": "El balance del Mincetur tras APEC 2026 en Shenzhen.",
+      "que_paso": "El ministro de Comercio Exterior, Rogers Valencia, dijo el lunes 23 que Perú busca ser el hub logístico, portuario y de negocios entre Sudamérica y Asia-Pacífico. La delegación, encabezada por la presidenta Keiko Fujimori, tuvo reuniones con EE.UU., China, Chile, México y Vietnam, entre otros.",
+      "por_que_importa": "Hub = punto de conexión por donde pasan carga y negocios. Perú tiene 25 acuerdos comerciales con 60 economías, que según el Mincetur suman el 82% del PBI mundial. Más carga por los puertos significa más demanda por almacenes y parques logísticos.",
+      "para_conversar": "Si el tema logístico despega, el inmobiliario industrial (almacenes cerca de Chancay y el Callao) puede ser de lo más interesante para seguir en 2027.",
+      "fuente": "https://www.infobae.com/peru/2026/11/23/peru-apunta-a-convertirse-en-un-hub-logistico-entre-sudamerica-y-asia-pacifico-tras-su-participacion-en-apec-2026/"
+    },
+    {
+      "tema": "mundo",
+      "visual": "curve",
+      "titulo": "el dólar se fortalece y goldman cree que sigue",
+      "bajada": "Tercer mes seguido al alza por las tasas de la Fed.",
+      "que_paso": "El estratega de Goldman Sachs Kamakshya Trivedi dijo el lunes que el dólar aún tiene espacio para subir, apoyado en tasas más altas. El índice del dólar de Bloomberg sube cerca de 2% en noviembre. El euro tocó US$ 1.0881, su nivel más bajo desde abril de 2025, y la libra bajó a US$ 1.3011. (Bloomberg Línea, martes 24.)",
+      "por_que_importa": "La Fed subió tasas en septiembre por primera vez en tres años, y el mercado espera alzas de unos 65 puntos básicos hasta septiembre de 2027. Un punto básico = 0.01%. Un dólar fuerte suele presionar a las monedas emergentes, como el sol.",
+      "para_conversar": "Goldman ve al euro bajando a US$ 1.08 en tres meses. Si el sol se debilita, los precios de inmuebles en dólares se sienten más caros para quien gana en soles.",
+      "fuente": "https://www.bloomberglinea.com/mercados/goldman-sachs-cree-que-al-dolar-aun-le-queda-fuerza-ante-las-perspectivas-de-tasas-mas-altas/"
+    }
+  ],
+  "flashcards": [
+    { "q": "¿Cuánto creció el PBI de Perú en el tercer trimestre de 2026?", "a": "3.1%, y 3.2% acumulado a septiembre (INEI)." },
+    { "q": "¿Qué sector creció más en el tercer trimestre?", "a": "Construcción, con 9.7%. La inversión privada subió 12.4%." },
+    { "q": "¿Qué es la inversión bruta fija?", "a": "El gasto en edificios, obras, maquinaria y equipos. Creció 10.8% en el trimestre." },
+    { "q": "¿Cuánto invertirá Echeverría Izquierdo en Perú en 2027?", "a": "US$ 180 millones en nuevos proyectos, con su marca Senda." },
+    { "q": "¿Cuánto bajó la participación de las AFP en bonos soberanos?", "a": "De 27% en 2019 a 8% en 2025, tras los retiros." },
+    { "q": "¿Qué es un punto básico?", "a": "0.01%. El mercado espera alzas de la Fed de unos 65 puntos básicos hasta septiembre de 2027." },
+    { "q": "¿Con cuántas economías tiene acuerdos comerciales Perú?", "a": "60 economías, mediante 25 acuerdos (82% del PBI mundial, según el Mincetur)." }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
