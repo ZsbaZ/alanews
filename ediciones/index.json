@@ -1,6 +1,13 @@
 {
   "ediciones": [
     {
+      "numero": "007",
+      "fecha_corta": "25 nov",
+      "dia": "mié",
+      "titular": "El MEF baja su proyección del PBI a 3.1%, pero ve la construcción creciendo 10.7%",
+      "archivo": "ediciones/007.json"
+    },
+    {
       "numero": "006",
       "fecha_corta": "24 nov",
       "dia": "mar",

@@ -1,0 +1,111 @@
+{
+  "numero": "007",
+  "fecha": "2026-11-25",
+  "fecha_texto": "miércoles 25 nov 2026",
+  "fecha_corta": "25 nov",
+  "nota_edicion": "Sin newsletters de Gestión ni El Comercio en el correo hoy; todo sale de fuentes abiertas del martes 24 y miércoles 25.",
+  "portada": {
+    "tema": "peru",
+    "minutos": 4,
+    "titular": "El MEF baja su proyección del PBI a 3.1%, pero ve la construcción creciendo 10.7%",
+    "que_paso": "El MEF actualizó el martes 24 sus proyecciones: la economía crecería 3.1% en 2026, no 3.4% como dijo en agosto. La culpa es de El Niño: ahora espera que la pesca caiga 40.5% y los sectores primarios, 3%.",
+    "por_que_importa": "Sectores primarios = los que sacan recursos de la naturaleza (pesca, agro, minería). Los no primarios crecerían 4.3%, y ahí está la construcción, con 10.7%. La inversión privada sube su proyección de 10.5% a 13.8%. Más obras y más proyectos es más demanda por terrenos, oficinas y vivienda.",
+    "zoom": "La demanda interna (lo que gastan e invierten hogares, empresas y Estado) pasa de 5.9% a 6.3%. La inversión minera crecería 24%. Para 2027 el MEF mantiene 3.4% y, de 2028 a 2031, un promedio de 4% al año.",
+    "para_conversar": "El PBI baja por el mar y el campo, no por la ciudad. Lo que mueve tu sector, construir e invertir, el MEF lo ve más fuerte que hace tres meses.",
+    "fuente": "https://larepublica.pe/economia/2026/11/24/mef-recorta-proyeccion-del-pbi-a-31-para-2026-pesca-caera-405-por-impacto-de-el-nino-hnews-1967112"
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "dots",
+      "titulo": "solo 5.6% de los depas en lima está listo para mudarse",
+      "bajada": "Hay 3,214 unidades de entrega inmediata y cuestan en promedio S/ 563,254.",
+      "que_paso": "CODIP contó la oferta a fines de octubre: solo 5.6% de las viviendas en venta en Lima y Callao se entrega de inmediato. Su precio promedio subió 9.6% desde enero, y 68.6% está en Lima Moderna y Lima Top. (Andina, martes 24.)",
+      "por_que_importa": "Entrega inmediata = el depa ya está construido, no en planos. El choque: 76% de compradores busca hasta S/ 400,000, pero solo 27.8% de estas unidades está en ese rango, sobre todo en Cercado y Callao.",
+      "para_conversar": "Miraflores lidera con 422 depas listos a S/ 840,164 en promedio; San Miguel tiene 373 a S/ 434,694. Quien quiere mudarse ya y gastar poco tiene muy pocas opciones.",
+      "fuente": "https://andina.pe/agencia/noticia-mercado-inmobiliario-lima-solo-56-de-oferta-es-vivienda-entrega-inmediata-1101312.aspx"
+    },
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "lima este vende 49% más viviendas nuevas",
+      "bajada": "De 536 a 800 unidades entre enero y septiembre.",
+      "que_paso": "Según CODIP, Lima Este vendió 800 viviendas nuevas de enero a septiembre, 264 más que en 2025. Solo en agosto fueron 82, contra 61 un año antes. Santa Anita se llevó 46.3% de las ventas de ese mes. (Infobae, martes 24.)",
+      "por_que_importa": "El metro cuadrado promedio está en S/ 4,114 (agosto), con depas de 2 y 3 dormitorios de 50 a 70 m2. Es una zona más barata que Lima Moderna, justo donde hay demanda que no encuentra precio en el centro.",
+      "para_conversar": "Ojo con la oferta: son 1,072 depas en 18 proyectos. Poco inventario para una zona que crece a ese ritmo; puede empujar precios, como en San Luis, donde el m2 ya subió 5%.",
+      "fuente": "https://www.infobae.com/peru/2026/11/24/lima-este-registra-un-aumento-de-49-en-la-venta-de-viviendas-nuevas-durante-2026/"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "si tu agente de ia mueve plata, quizá necesite licencia",
+      "bajada": "El regulador financiero británico pone la línea entre informar y actuar.",
+      "que_paso": "La FCA, el regulador financiero del Reino Unido, publicó el martes 24 lo que espera de la IA agéntica. Si un agente solo da información, va. Si inicia transacciones, mueve dinero, arregla préstamos o decide inversiones, la empresa debe ver si necesita autorización.",
+      "por_que_importa": "IA agéntica = IA que no solo responde, también ejecuta tareas por ti. La FCA aclara que llamarse empresa tecnológica no te exime, y que si un banco usa IA de terceros, la responsabilidad sigue siendo del banco.",
+      "para_conversar": "Regla útil para tu trabajo: deja que la IA busque, ordene y resuma; la decisión y la firma, que las tome una persona. Es justo la línea que trazan los reguladores.",
+      "fuente": "https://thenextweb.com/news/fca-agentic-ai-authorisation"
+    },
+    {
+      "tema": "fin",
+      "visual": "bars",
+      "titulo": "cambiar dólares en el banco te sale más caro",
+      "bajada": "Casas de cambio a S/ 3.442; BBVA vende a S/ 3.608.",
+      "que_paso": "El miércoles 25 temprano, las casas de cambio de Lima vendían el dólar a S/ 3.442. En bancos: BCP a S/ 3.540, Scotiabank a S/ 3.558, Interbank a S/ 3.576 y BBVA a S/ 3.608. Bloomberg daba una apertura preliminar de S/ 3.4825. (La República.)",
+      "por_que_importa": "Spread = la diferencia entre el precio de compra y el de venta; es la ganancia de quien cambia. En BBVA el spread es de 14 céntimos (compra a 3.468, vende a 3.608); en las casas de cambio, menos de 1.",
+      "para_conversar": "Si un cliente paga la inicial en dólares, cotizar antes de cambiar importa: en US$ 20,000, la diferencia entre 3.442 y 3.608 son más de S/ 3,000.",
+      "fuente": "https://larepublica.pe/economia/precio-del-dolar/2026/11/25/precio-del-dolar-hoy-en-peru-miercoles-25-de-noviembre-revisa-el-tipo-de-cambio-en-bancos-y-casas-de-cambio-1380864"
+    },
+    {
+      "tema": "peru",
+      "visual": "steps",
+      "titulo": "cade arranca en cusco hablando de una ventana",
+      "bajada": "Pobreza cerca de 25%, cuando hace dos décadas era alrededor de 60%.",
+      "que_paso": "El martes 24 se inauguró CADE Ejecutivos 2026 en Urubamba, hasta el jueves 26. Rolando Arellano, su presidente, dijo que el país vive una ventana de oportunidad: crecimiento de 3.2% este año y el PBI per cápita más alto de su historia. (Canal N.)",
+      "por_que_importa": "CADE es el foro anual de IPAE donde se juntan empresarios y Gobierno. Arellano contó que hubo pedidos de bonos por 21,000 millones frente a 4,500 millones ofrecidos: el mercado quiere prestarle al Perú. Pero listó brechas: salud, educación, infraestructura, inseguridad y El Niño.",
+      "para_conversar": "Dijo algo clave: hay más plata pública que capacidad para gastarla. Por eso empuja Obras por Impuestos y APP (asociaciones público-privadas), dos caminos donde el sector privado ejecuta la obra.",
+      "fuente": "https://canaln.pe/actualidad/inauguran-64-edicion-cade-ejecutivos-2026-urubamba-n496449"
+    },
+    {
+      "tema": "mundo",
+      "visual": "curve",
+      "titulo": "jpmorgan es más prudente con wall street en 2027",
+      "bajada": "Ve al S&P 500 en 8,200 puntos; el consenso dice 8,471.",
+      "que_paso": "El equipo de JPMorgan puso su meta del S&P 500 para fines de 2027 en 8,200 puntos, por debajo del consenso de Bloomberg (8,471) y de Morgan Stanley y Goldman Sachs (8,700). (Bloomberg Línea, martes 24.)",
+      "por_que_importa": "El S&P 500 es el índice de las 500 empresas más grandes de EE.UU. JPMorgan igual espera una subida de cerca de 14% y ganancias empresariales creciendo alrededor de 15%, porque cree que la demanda por IA sigue fuerte pese a la reciente caída tecnológica.",
+      "para_conversar": "Hasta el más prudente de los grandes bancos ve subidas. La pregunta no es si la IA sigue, sino cuánto de eso ya está en el precio.",
+      "fuente": "https://www.bloomberglinea.com/mercados/jpmorgan-situa-al-sp-500-en-8200-puntos-para-2027-por-debajo-del-consenso/"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "¿A cuánto bajó el MEF su proyección del PBI 2026?",
+      "a": "De 3.4% a 3.1%, por el golpe de El Niño a la pesca y el agro."
+    },
+    {
+      "q": "¿Cuánto crecería la construcción en 2026, según el MEF?",
+      "a": "10.7%. La inversión privada, 13.8%."
+    },
+    {
+      "q": "¿Qué porcentaje de la oferta de vivienda en Lima es de entrega inmediata?",
+      "a": "Solo 5.6%: 3,214 unidades, con precio promedio de S/ 563,254 (CODIP, octubre)."
+    },
+    {
+      "q": "¿Cuánto crecieron las ventas de vivienda nueva en Lima Este (ene-sep)?",
+      "a": "49%: de 536 a 800 unidades. El m2 promedio está en S/ 4,114."
+    },
+    {
+      "q": "¿Qué es el spread cambiario?",
+      "a": "La diferencia entre el precio de compra y el de venta del dólar. Es la ganancia de quien cambia."
+    },
+    {
+      "q": "Según la FCA, ¿cuándo un agente de IA puede necesitar autorización?",
+      "a": "Cuando deja de informar y empieza a actuar: mover dinero, arreglar préstamos o decidir inversiones."
+    },
+    {
+      "q": "¿Qué son las APP?",
+      "a": "Asociaciones público-privadas: el Estado concesiona una obra o servicio y un privado lo financia, construye u opera."
+    }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
