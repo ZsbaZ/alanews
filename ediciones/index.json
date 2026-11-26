@@ -1,6 +1,13 @@
 {
   "ediciones": [
     {
+      "numero": "008",
+      "fecha_corta": "26 nov",
+      "dia": "jue",
+      "titular": "Las inmobiliarias preparan ofertas para que la tasa y El Niño no frenen las ventas",
+      "archivo": "ediciones/008.json"
+    },
+    {
       "numero": "007",
       "fecha_corta": "25 nov",
       "dia": "mié",

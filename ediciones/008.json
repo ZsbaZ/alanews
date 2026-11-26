@@ -1,0 +1,90 @@
+{
+  "numero": "008",
+  "fecha": "2026-11-26",
+  "fecha_texto": "jueves 26 nov 2026",
+  "fecha_corta": "26 nov",
+  "nota_edicion": "Sin newsletters de Gestión ni El Comercio en el correo hoy. Las notas de Gestión de portada y Techo Propio son para suscriptores: si puedes, léelas completas en el diario.",
+  "portada": {
+    "tema": "inmo",
+    "minutos": 4,
+    "titular": "Las inmobiliarias preparan ofertas para que la tasa y El Niño no frenen las ventas",
+    "que_paso": "Las inmobiliarias alistan descuentos y facilidades para el verano. El temor: que la tasa del BCR más alta (de 4.25% a 4.50% en noviembre) llegue a los créditos hipotecarios y que El Niño enfríe la demanda. CODIP cree que las ventas del primer trimestre de 2027 podrían no crecer frente a las de este año. (Gestión, miércoles 25.)",
+    "por_que_importa": "Tasa de referencia = la tasa con la que el BCR le presta a los bancos; cuando sube, los bancos encarecen sus créditos con algunos meses de demora. Un economista del Colegio de Economistas de Lima espera ver el efecto en hipotecas desde enero, y otra subida del BCR en diciembre o enero.",
+    "zoom": "Las ofertas que se discuten: que la inmobiliaria pague algunas cuotas del crédito o que en preventa el comprador empiece a pagar recién con la entrega. Hoy, según la SBS, la tasa hipotecaria va de 7.5% a 21.5% al año. Y los depas se achican: de 70 m2 en promedio en 2022 a 63 m2 en 2026.",
+    "para_conversar": "2026 cierra con ventas récord, pero el sector ya juega a la defensiva para el verano. Si un cliente pregunta cuándo comprar, el gancho de las ofertas puede ser el primer trimestre.",
+    "fuente": "https://gestion.pe/economia/inmobiliarias-alistan-ofertas-para-evitar-freno-de-ventas-por-el-nino-y-mayor-tasa-hipotecaria-noticia/"
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "a techo propio le falta más de la mitad de la plata",
+      "bajada": "El MEF aprobó S/ 150 millones; el sector pide S/ 330 millones.",
+      "que_paso": "El MEF aprobó hace poco un crédito suplementario de S/ 150 millones para Techo Propio, pero 6,500 familias siguen sin su bono. El sector calcula que se necesita S/ 330 millones, el doble. (Gestión, miércoles 25.)",
+      "por_que_importa": "Techo Propio = el bono del Estado para que familias de menores ingresos compren vivienda social. Sin bono, las casas ya construidas no se entregan y la inmobiliaria no cobra. Para 2027 el fondo arranca con S/ 500 millones y subiría a S/ 1,000 millones en el segundo semestre; CODIP dice que hacen falta S/ 2,000 millones.",
+      "para_conversar": "El cuello de botella de la vivienda social no es construir, es que el bono llegue a tiempo.",
+      "fuente": "https://gestion.pe/economia/inmobiliarias-alistan-ofertas-para-evitar-freno-de-ventas-por-el-nino-y-mayor-tasa-hipotecaria-noticia/"
+    },
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "el cemento dice que la economía va mejor que el pbi",
+      "bajada": "Velarde mostró en CADE que la inversión privada crece 14.8%.",
+      "que_paso": "En CADE, Julio Velarde (presidente del BCR) mostró que la inversión privada creció 14.8% entre enero y septiembre, la tasa más alta desde 2013 sin contar 2021. El consumo de cemento subió 14.4% en el primer trimestre y 11.4% en el segundo. (Infobae, jueves 26.)",
+      "por_que_importa": "El PBI creció solo 3.2% en ese periodo, pero la demanda interna subió 6.2% y el empleo formal privado, 5.9% en el tercer trimestre. Más cemento y más empleo formal son más obras y más gente que puede pedir un crédito hipotecario.",
+      "para_conversar": "Según Velarde, varios indicadores de demanda están 20% a 25% por encima de 2011-2012, cuando el país crecía 6.2% al año.",
+      "fuente": "https://www.infobae.com/peru/2026/11/26/julio-velarde-en-cade-2026-inversion-privada-crece-15-y-economia-peruana-muestra-senales-de-fortaleza-pese-a-el-nino/"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "los conectores de claude ahora traen su propio manual",
+      "bajada": "Los servidores MCP ya pueden incluir skills: herramientas e instrucciones juntas.",
+      "que_paso": "Anthropic lanzó en beta pública las skills por MCP: quien arma un conector puede mandar junto a él las instrucciones de cómo usarlo bien. Además, Tasks (trabajos largos que el agente deja corriendo) y Elicitation (cuando el agente se detiene a pedirte un dato) ya están disponibles para todos. (Resumen Agent Tools Today, 25 nov.)",
+      "por_que_importa": "MCP = el estándar para conectar la IA con tus apps (correo, CRM, bases de datos). Skill = un manual de pasos que el agente sigue. Si el conector de una base de datos inmobiliaria viene con su manual, el agente no solo lee los datos: sabe cómo armar el reporte.",
+      "para_conversar": "El valor ya no está solo en conectar la IA a tus datos, sino en enseñarle el método de trabajo de tu área.",
+      "fuente": "https://munderdiffl.in/blog/agent-tools-today-2026-11-25"
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "velarde no descarta volver a subir la tasa",
+      "bajada": "La inflación está fuera del rango meta y el BCR dice estar listo para actuar.",
+      "que_paso": "En CADE, Velarde dijo que si la inflación sigue subiendo y contagia otros precios, el BCR está dispuesto a actuar otra vez. En noviembre ya subió la tasa de 4.25% a 4.50%, la primera alza desde enero de 2023. (Gestión, miércoles 25.)",
+      "por_que_importa": "Rango meta = la inflación que el BCR quiere ver, entre 1% y 3% al año. Velarde explicó que el alza viene de choques de oferta (combustibles, alimentos, El Niño), que la tasa no controla directamente. Por eso el margen del BCR es limitado.",
+      "para_conversar": "Cuando el problema es el precio de los alimentos y no el exceso de crédito, subir la tasa ayuda poco, pero el BCR lo hace para que las expectativas no se desanclen.",
+      "fuente": "https://gestion.pe/economia/julio-velarde-en-cade-2026-inflacion-alta-limita-al-bcrp-pero-hay-disposicion-a-actuar-noticia/"
+    },
+    {
+      "tema": "peru",
+      "visual": "steps",
+      "titulo": "velarde: la gestión pública no es mala, es pésima",
+      "bajada": "Pidió que la plata de la minería se convierta en mejor salud y educación.",
+      "que_paso": "El presidente del BCR criticó en CADE la capacidad del Estado para atender educación y salud. Planteó que los mayores ingresos fiscales por la minería se usen en servicios y capital humano, y puso como ejemplo las reformas de Japón desde 1868, Corea y China. (La República, miércoles 25.)",
+      "por_que_importa": "Capital humano = lo que una persona sabe y puede hacer, gracias a su educación y salud. El país recauda más, pero la plata no se convierte en mejores servicios. Eso limita el crecimiento de largo plazo.",
+      "para_conversar": "Que lo diga el presidente del BCR, que suele medir sus palabras, da una idea de qué tan grave ve el problema.",
+      "fuente": "https://larepublica.pe/economia/2026/11/25/julio-velarde-sobre-la-gestion-publica-en-peru-no-es-mala-es-pesima-cuestiona-en-cade-2026-287775"
+    },
+    {
+      "tema": "mundo",
+      "visual": "grid",
+      "titulo": "nuevos aranceles de eeuu y la ia vuelven a pesar en las bolsas",
+      "bajada": "Nvidia cayó 5.9% y Anthropic quedó por debajo de su precio de salida a bolsa.",
+      "que_paso": "Las bolsas del mundo bajaron el miércoles: el índice global de MSCI cayó 0.5% y las bolsas asiáticas con muchas tecnológicas, 3.1%. Según Reuters, EE.UU. anunciaría nuevos aranceles a 16 socios comerciales, incluida China. (Reuters, miércoles 25.)",
+      "por_que_importa": "El martes el Nasdaq cayó 1.5%, Nvidia 5.9% y Anthropic 6.5%, hasta quedar debajo de su precio de IPO (oferta pública inicial). El petróleo Brent está en US$ 91.87 por ataques a barcos cerca del estrecho de Ormuz, y el mercado ya considera que la Fed podría subir su tasa el próximo mes.",
+      "para_conversar": "Aranceles, petróleo caro y dudas sobre la IA a la vez: si la Fed sube tasas, el dólar se fortalece y eso también llega al tipo de cambio en Perú.",
+      "fuente": "https://boereport.com/2026/11/25/world-stocks-fall-as-new-us-tariffs-loom-ai-rebound-fizzles/"
+    }
+  ],
+  "flashcards": [
+    { "q": "¿Qué ofertas preparan las inmobiliarias para el verano?", "a": "Pagar algunas cuotas del crédito o que en preventa el comprador pague recién con la entrega." },
+    { "q": "¿En qué rango está la tasa hipotecaria, según la SBS?", "a": "Entre 7.5% y 21.5% al año." },
+    { "q": "¿Cuánto falta para Techo Propio?", "a": "El MEF aprobó S/ 150 millones; el sector pide S/ 330 millones para 6,500 familias sin bono." },
+    { "q": "¿Cuánto creció la inversión privada entre enero y septiembre?", "a": "14.8%, la más alta desde 2013 sin contar 2021 (Velarde en CADE)." },
+    { "q": "¿Cuál es el rango meta de inflación del BCR?", "a": "Entre 1% y 3% al año." },
+    { "q": "¿Qué es una skill en un agente de IA?", "a": "Un manual de pasos que el agente sigue para hacer bien una tarea." },
+    { "q": "¿Qué es una IPO?", "a": "Oferta pública inicial: la primera vez que una empresa vende acciones en bolsa." }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
