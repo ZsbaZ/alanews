@@ -1,0 +1,90 @@
+{
+  "numero": "009",
+  "fecha": "2026-11-27",
+  "fecha_texto": "viernes 27 nov 2026",
+  "fecha_corta": "27 nov",
+  "nota_edicion": "Sin newsletters de Gestión ni El Comercio en el correo hoy. Edición armada con notas abiertas de CADE, Andina, Infobae, Correo y AP.",
+  "portada": {
+    "tema": "inmo",
+    "minutos": 4,
+    "titular": "Cinco inmobiliarias grandes avisan que dejarían Techo Propio si no se aclara el bono",
+    "que_paso": "En CADE, José Espantoso, presidente del directorio de CODIP, contó que cinco inmobiliarias importantes anunciaron que no quieren seguir con Techo Propio. El motivo: no saben si habrá plata para los subsidios. Hoy hay 6,500 familias con la casa lista que esperan su bono. (El Comercio, miércoles 25.)",
+    "por_que_importa": "La vivienda social pesa mucho: según Espantoso, cerca del 45% de las ventas de vivienda nueva viene de programas sociales. Si las empresas grandes se salen, se frena una parte clave de un mercado que este año crece alrededor de 26%.",
+    "zoom": "El MEF separó S/ 150 millones, que para CODIP no alcanzan. El gremio dice que hacen falta al menos S/ 1,000 millones para sostener la inversión privada. El presupuesto inicial de los programas sociales de vivienda es 54% menor que el del año pasado, y algunas empresas ya pausaron compras de terrenos.",
+    "para_conversar": "Ayer el tema era que faltaba plata; hoy, que las empresas empiezan a irse. Ojo con los proyectos de vivienda social en cartera: la pregunta ya no es solo cuándo llega el bono, sino quién sigue construyendo.",
+    "fuente": "https://elcomercio.pe/economia/jose-espantoso-presidente-del-directorio-de-codip-no-es-posible-que-un-programa-tan-exitoso-como-techo-propio-se-vea-paralizado-por-una-falta-de-prevision-en-el-presupuesto-cade-ejecutivos-2026-apuesplan-noticia/"
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "bars",
+      "titulo": "el déficit de vivienda tiene 1.9 millones de familias",
+      "bajada": "1.3 millones viven mal; 600 mil no tienen dónde.",
+      "que_paso": "Espantoso (CODIP) recordó en CADE el tamaño del problema: 1.9 millones de familias con déficit de vivienda. (El Comercio, miércoles 25.)",
+      "por_que_importa": "Déficit cualitativo = familias que tienen casa, pero mala (materiales precarios, hacinamiento, sin servicios): 1.3 millones. Déficit cuantitativo = familias que no tienen vivienda propia: 600 mil. Es la demanda de fondo que sostiene al sector, haya o no bono.",
+      "para_conversar": "Cuando alguien diga que el boom inmobiliario se va a acabar, el déficit es el argumento contrario: la demanda está, lo que falta es financiamiento.",
+      "fuente": "https://elcomercio.pe/economia/jose-espantoso-presidente-del-directorio-de-codip-no-es-posible-que-un-programa-tan-exitoso-como-techo-propio-se-vea-paralizado-por-una-falta-de-prevision-en-el-presupuesto-cade-ejecutivos-2026-apuesplan-noticia/"
+    },
+    {
+      "tema": "inmo",
+      "visual": "steps",
+      "titulo": "salardi: los subsidios se acabaron en octubre",
+      "bajada": "Hasta 6,000 familias podrían quedarse sin vivienda formal.",
+      "que_paso": "En un panel de CADE, José Salardi, director ejecutivo de CODIP y exministro de Economía, dijo que los subsidios para vivienda formal se agotaron en octubre y que unas 6,000 familias podrían quedar bloqueadas. (Gestión, miércoles 25.)",
+      "por_que_importa": "El Gobierno se comprometió a 1,250,000 viviendas en este periodo y el sector crece más de 20% al año. Salardi también habló de una brecha de infraestructura de US$ 150,000 millones y de Obras por Impuestos (empresas que pagan su impuesto haciendo obras): este año se podrían adjudicar más de S/ 12,000 millones, pero caería a S/ 500 millones si las obras deben quedarse en su zona de influencia.",
+      "para_conversar": "Agua, pistas y vivienda van juntas: una familia sin conexión formal de agua puede pagar hasta siete veces más por un servicio peor, según Salardi.",
+      "fuente": "https://gestion.pe/economia/empresas/cade-2026-engie-codip-e-ipae-plantean-medidas-para-acelerar-inversiones-en-las-regiones-noticia/"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "solo 1 de cada 3 empresas peruanas usa ia",
+      "bajada": "Perú: 33%. Promedio de la región: 43%.",
+      "que_paso": "Víctor Laguna, CEO de PathPilot, dijo en CADE que el 33% de las empresas peruanas ya implementó IA en sus operaciones, 10 puntos debajo del promedio regional (43%). Compartió panel con Brooke Weddle, socia sénior de McKinsey. (Correo, jueves 26.)",
+      "por_que_importa": "Laguna propuso tres fases: primero dar a la gente acceso a herramientas de IA, luego elegir los procesos que conviene optimizar y recién después mejorar la experiencia del cliente. Weddle puso ejemplos de agentes: revisar solicitudes, procesar documentos y entregar información, con las personas a cargo de las decisiones de criterio.",
+      "para_conversar": "En asesoría inmobiliaria la fase 2 es clara: armar fichas de proyectos, revisar contratos o cruzar bases de precios. Lo que es juicio (recomendar al cliente) sigue siendo tuyo.",
+      "fuente": "https://diariocorreo.pe/peru/cade-2026-victor-laguna-revela-que-solo-el-33-de-empresas-peruanas-ha-implementado-ia-noticia/"
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "el choclo subió 45% y velarde ve más inflación",
+      "bajada": "La inflación de noviembre podría superar a la de octubre.",
+      "que_paso": "Julio Velarde, presidente del BCR, advirtió que El Niño va a presionar fuerte los precios de los alimentos y que la inflación de noviembre podría ser mayor que la de octubre. En octubre, según el INEI, el choclo subió 45.3%, la zanahoria 24.6% y la arveja verde 24.3% en Lima. (Infobae, jueves 26.)",
+      "por_que_importa": "Inflación anualizada = cuánto subieron los precios en los últimos 12 meses. En Lima está en 5.25%, lejos del rango meta del BCR (1% a 3%). Velarde admitió que la tasa sirve poco contra un choque de oferta (cuando sube el precio porque falta producto); lo que busca es que no se contagie a otros precios.",
+      "para_conversar": "La próxima reunión del BCR es el 10 de diciembre. Si noviembre sale alto, crece la apuesta por otra subida de tasa, y eso llega a los hipotecarios.",
+      "fuente": "https://www.infobae.com/peru/2026/11/26/julio-velarde-advierte-que-el-nino-presionara-el-precio-de-los-alimentos-en-peru-el-dano-puede-ser-fuerte/"
+    },
+    {
+      "tema": "peru",
+      "visual": "curve",
+      "titulo": "el mef apuesta a crecer entre 4% y 5% el próximo año",
+      "bajada": "La inversión privada corre a 15%, pero no seguirá así.",
+      "que_paso": "El ministro de Economía, Elmer Cuba, dijo en CADE que la economía podría crecer entre 4% y 5% el próximo año, con la recuperación de pesca y minería y mejores resultados en textiles y agricultura. (Andina, jueves 26.)",
+      "por_que_importa": "La inversión privada crece 15%, pero Cuba no espera que mantenga ese ritmo. Además estimó que la crisis política le restó al menos 2.5 puntos al crecimiento del PBI per cápita, y propuso una nueva ley de inversión pública para controlar obras regionales y locales que arrancan sin plata para terminarse.",
+      "para_conversar": "El MEF ya bajó su proyección para este año por El Niño (lo vimos el miércoles); el rebote de 2027 depende de que la inversión privada aguante.",
+      "fuente": "https://andina.pe/agencia/noticia-mef-proyecta-economia-peruana-creceria-entre-4-y-5-proximo-ano-1101549.aspx"
+    },
+    {
+      "tema": "mundo",
+      "visual": "grid",
+      "titulo": "las bolsas rebotan mientras wall street come pavo",
+      "bajada": "Europa sube más de 1%; Nvidia cayó 3.9% el miércoles.",
+      "que_paso": "Con EE.UU. cerrado por Acción de Gracias, las bolsas del mundo subieron el jueves: el DAX alemán +1.8%, el CAC 40 francés +1.6% y el Nikkei japonés +0.9%. El miércoles, Nvidia había caído 3.9% después de que S&P Global Ratings advirtiera que podría bajar su calificación de crédito. (AP, jueves 26.)",
+      "por_que_importa": "Calificación de crédito = la nota que mide qué tan seguro es prestarle a una empresa; si baja, financiarse le sale más caro. Al fondo siguen los nuevos aranceles de EE.UU. a China, la UE y otros socios, y el Brent en US$ 90.79, cuando antes de la guerra de fines de febrero rondaba US$ 72.",
+      "para_conversar": "Anthropic, que empezó a cotizar la semana pasada, cerró el miércoles +1.1%, aún debajo de su precio de salida de US$ 83.",
+      "fuente": "https://www.bnnbloomberg.ca/markets/2026/11/26/world-shares-push-higher-while-markets-in-us-will-be-closed-for-thanksgiving/"
+    }
+  ],
+  "flashcards": [
+    { "q": "¿Cuántas inmobiliarias grandes avisaron que dejarían Techo Propio?", "a": "Cinco, por la incertidumbre sobre los subsidios (CODIP en CADE)." },
+    { "q": "¿Qué diferencia hay entre déficit cualitativo y cuantitativo?", "a": "Cualitativo: tienen casa, pero mala (1.3 millones). Cuantitativo: no tienen vivienda (600 mil)." },
+    { "q": "¿Qué parte de las ventas de vivienda nueva viene de programas sociales?", "a": "Cerca del 45%, según CODIP." },
+    { "q": "¿Qué son las Obras por Impuestos?", "a": "Empresas que adelantan su impuesto a la renta financiando obras públicas." },
+    { "q": "¿Cuántas empresas peruanas usan IA?", "a": "33%, frente a 43% en promedio en la región (PathPilot)." },
+    { "q": "¿Qué es un choque de oferta?", "a": "Una subida de precios porque falta producto (por ejemplo, por El Niño), no porque haya más demanda." },
+    { "q": "¿Cuándo vuelve a decidir la tasa el BCR?", "a": "El 10 de diciembre." }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}

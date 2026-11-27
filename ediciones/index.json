@@ -1,6 +1,13 @@
 {
   "ediciones": [
     {
+      "numero": "009",
+      "fecha_corta": "27 nov",
+      "dia": "vie",
+      "titular": "Cinco inmobiliarias grandes avisan que dejarían Techo Propio si no se aclara el bono",
+      "archivo": "ediciones/009.json"
+    },
+    {
       "numero": "008",
       "fecha_corta": "26 nov",
       "dia": "jue",
