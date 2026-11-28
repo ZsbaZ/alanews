@@ -1,6 +1,13 @@
 {
   "ediciones": [
     {
+      "numero": "010",
+      "fecha_corta": "28 nov",
+      "dia": "sáb",
+      "titular": "El MEF promete duplicar a S/ 1,000 millones la plata para vivienda social en 2027",
+      "archivo": "ediciones/010.json"
+    },
+    {
       "numero": "009",
       "fecha_corta": "27 nov",
       "dia": "vie",

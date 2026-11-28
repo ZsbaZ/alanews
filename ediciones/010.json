@@ -1,0 +1,90 @@
+{
+  "numero": "010",
+  "fecha": "2026-11-28",
+  "fecha_texto": "sábado 28 nov 2026",
+  "fecha_corta": "28 nov",
+  "nota_edicion": "Sin newsletters de Gestión ni El Comercio en el correo hoy. Edición armada con notas abiertas de Andina, Infobae, La República, Bloomberg Línea, Yahoo Finance y Revista Economía.",
+  "portada": {
+    "tema": "inmo",
+    "minutos": 4,
+    "titular": "El MEF promete duplicar a S/ 1,000 millones la plata para vivienda social en 2027",
+    "que_paso": "En el V Foro Urbano Nacional, el ministro de Economía, Elmer Cuba, dijo que el presupuesto 2027 para vivienda social arrancaba en algo más de S/ 500 millones y que a mitad de año lo van a duplicar a S/ 1,000 millones. Además confirmó S/ 150 millones extra para el Fondo Mivivienda para lo que queda de 2026. (Infobae, viernes 27.)",
+    "por_que_importa": "Es la respuesta del Gobierno a la amenaza de las inmobiliarias de dejar Techo Propio. El bono vuelve a tener un número sobre la mesa, aunque la duplicación es una promesa para 'mediados' de 2027, no plata ya asignada.",
+    "zoom": "El presupuesto inicial 2027 suma S/ 463.8 millones para el Bono Familiar Habitacional (el subsidio de Techo Propio) y S/ 85 millones para el Bono del Buen Pagador (la ayuda de Mivivienda que reduce el monto del crédito hipotecario). Gerardo Freiberg, presidente de Mivivienda, puso la meta en 1.25 millones de viviendas en cinco años; para 2026 estima unos 70,000 entre créditos e intervenciones, por debajo de hace una década.",
+    "para_conversar": "La pregunta útil no es si hay plata, sino cuándo. Si el refuerzo llega recién a mitad de 2027, el primer semestre sigue apretado para los proyectos de vivienda social. Capeco ya advirtió que, sin subsidios, Techo Propio para vivienda nueva podría casi desaparecer.",
+    "fuente": "https://www.infobae.com/peru/2026/11/27/fondo-mivivienda-proyecta-impulsar-la-construccion-de-125-millones-de-viviendas-durante-el-actual-gobierno/"
+  },
+  "historias": [
+    {
+      "tema": "inmo",
+      "visual": "curve",
+      "titulo": "la construcción vuela, pero empieza a frenar",
+      "bajada": "10.2% de enero a octubre; el cemento ya va más lento.",
+      "que_paso": "Capeco estima que la construcción creció 10.2% entre enero y octubre, el mejor ritmo para ese periodo desde 2013 (sin contar el rebote pospandemia). Pero en octubre el consumo de cemento subió solo 5.5%, su paso más lento en 14 meses. (La República, viernes 27.)",
+      "por_que_importa": "El gremio ve dos frenos para el cierre del año: El Niño, que puede golpear obras hasta marzo, y costos más altos. Los materiales de construcción subieron 3.48% en doce meses. Y unos S/ 18,400 millones de inversión pública podrían quedarse sin gastar en 2026.",
+      "para_conversar": "El cemento es el termómetro rápido del sector: cuando se enfría antes que el PBI de construcción, suele anticipar meses más flojos. Capeco dice que la recuperación rápida que proyecta el Gobierno 'todavía no está asegurada'.",
+      "fuente": "https://larepublica.pe/economia/2026/11/27/construccion-perderia-impulso-hacia-el-cierre-del-2026-por-el-nino-y-mayores-costos-hnews-1061937"
+    },
+    {
+      "tema": "inmo",
+      "visual": "dots",
+      "titulo": "cada año nacen 140 mil hogares y hay 50 mil casas formales",
+      "bajada": "Vivienda lanza 'Ciudad de Oportunidades' para ordenar el suelo.",
+      "que_paso": "El Ministerio de Vivienda presentó su estrategia Ciudad de Oportunidades en el V Foro Urbano Nacional. La idea: que el Estado planifique y gestione sus propios terrenos con 'operaciones urbanas integrales' (proyectos grandes que juntan suelo, vivienda, servicios e inversión privada) en vez de correr detrás de la informalidad. (Andina, viernes 27.)",
+      "por_que_importa": "El dato de fondo: se forman más de 140,000 hogares nuevos al año y la oferta formal llega apenas a unas 50,000 viviendas. La brecha la llena la invasión y la autoconstrucción. El ministro Mauricio Arnillas pidió acabar con la compra informal de suelo.",
+      "para_conversar": "Para una consultora inmobiliaria, lo interesante es el rol del Estado como dueño de suelo: si arma macroproyectos con privados, aparecen terrenos grandes para vivienda social que hoy no están en el mercado.",
+      "fuente": "https://andina.pe/agencia/noticia-ministerio-vivienda-impulsa-estrategia-ciudad-oportunidades-1101727.aspx"
+    },
+    {
+      "tema": "ia",
+      "visual": "nodes",
+      "titulo": "los agentes de ia salen de compras este black friday",
+      "bajada": "El 40% de consumidores ya usa agentes, según PYMNTS.",
+      "que_paso": "Una columna de Santiago Noziglia (Globant) repasa el debut del 'comercio agéntico': agentes de IA que buscan, comparan y hasta compran por ti. Cita datos de PYMNTS: 40.2% de consumidores ya usa agentes de IA, y el 23% de estadounidenses empieza sus compras con IA. (Revista Economía, viernes 27.)",
+      "por_que_importa": "El cuello de botella no es la IA, son los datos: solo el 15% de los comerciantes tiene información que un agente puede leer. Lo mismo aplicará a los portales inmobiliarios: si la ficha de un proyecto (precio, m², entrega) no está ordenada, el agente del comprador no la va a recomendar.",
+      "para_conversar": "Idea para el trabajo: ¿los proyectos que asesoras tienen sus datos estructurados (tabla limpia de tipologías, precios y fechas)? Esa es la base para que un agente, propio o del cliente, los encuentre y compare.",
+      "fuente": "https://www.revistaeconomia.com/los-agentes-de-ia-hacen-su-debut-en-el-black-friday-los-grandes-cambios-que-se-avecinan/"
+    },
+    {
+      "tema": "fin",
+      "visual": "curve",
+      "titulo": "el dólar abrió el viernes bajando a S/ 3.417",
+      "bajada": "Venía de S/ 3.474 y dos días seguidos de caídas.",
+      "que_paso": "En el mercado interbancario (donde operan bancos y grandes empresas), el dólar abrió el viernes en S/ 3.417, por debajo de los S/ 3.474 del día anterior. En casas de cambio estaba en S/ 3.425 y en los bancos, en promedio, S/ 3.46. (Andina, viernes 27.)",
+      "por_que_importa": "Muchas operaciones inmobiliarias de alto ticket y oficinas se pactan en dólares. Un sol más fuerte abarata en soles esos precios, y al revés. Ojo con la diferencia entre el interbancario y lo que cobra tu banco: ahí está el margen del cambio.",
+      "para_conversar": "Si un cliente va a pagar inicial en dólares, comparar casa de cambio vs. banco puede ahorrar varios cientos de soles en una cuota inicial grande.",
+      "fuente": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-viernes-27-noviembre-del-2026-1101670.aspx"
+    },
+    {
+      "tema": "peru",
+      "visual": "steps",
+      "titulo": "perú y bolivia vuelven a hablarse tras cinco años",
+      "bajada": "Gabinete binacional en Lima con acuerdos de comercio y logística.",
+      "que_paso": "La presidenta Keiko Fujimori y el presidente boliviano Rodrigo Paz encabezaron en Palacio el VII Gabinete Binacional, el primero tras casi cinco años de distanciamiento. Firmaron un convenio entre la SNI y la CNI de Bolivia, y otro entre ENAPU y la ASP-B para que la carga boliviana salga al Asia-Pacífico por puertos peruanos. (Bloomberg Línea, viernes 27.)",
+      "por_que_importa": "Más carga boliviana por puertos peruanos es más demanda de almacenes y logística en el sur. También entró en vigor el paso fronterizo permanente San Lorenzo-Extrema, y en 2027 habrá un módulo que conecte Pando con Madre de Dios.",
+      "para_conversar": "Fujimori dijo que esos cinco años perdidos se van a recuperar 'con creces'. Si pasa, los puertos del sur ganan tracción logística, un tema a seguir para naves industriales.",
+      "fuente": "https://www.bloomberglinea.com/latinoamerica/peru/los-compromisos-de-integracion-de-peru-y-bolivia-tras-casi-cinco-anos-de-distanciamiento/"
+    },
+    {
+      "tema": "mundo",
+      "visual": "bars",
+      "titulo": "wall street cierra la semana en verde con la ia de vuelta",
+      "bajada": "Nasdaq +2.3% en una sesión corta de Black Friday.",
+      "que_paso": "En la jornada recortada del viernes, el S&P 500 subió 1.6%, el Dow 1.2% y el Nasdaq 2.3%, empujados por el rebote de las acciones de IA; Micron subió más de 7%. En la semana, el Dow ganó 3.4%. (Yahoo Finance, viernes 27.)",
+      "por_que_importa": "El bono del Tesoro a 10 años sigue cerca de 4.9%. Esa tasa es la referencia mundial del costo del dinero: mientras siga alta, el crédito (también el hipotecario en dólares) difícilmente baja. Además, el PBI de EE.UU. del tercer trimestre se revisó a 4.3% anualizado.",
+      "para_conversar": "El consumidor gringo sigue gastando: Adobe proyecta US$ 275,100 millones en ventas online en la temporada. Economía fuerte = Fed sin apuro para bajar tasas.",
+      "fuente": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    }
+  ],
+  "flashcards": [
+    { "q": "¿A cuánto promete el MEF subir el presupuesto 2027 para vivienda social?", "a": "A S/ 1,000 millones a mitad de año, desde algo más de S/ 500 millones." },
+    { "q": "¿Qué es el Bono del Buen Pagador?", "a": "Una ayuda de Mivivienda que reduce el monto del crédito hipotecario. En 2027 arranca con S/ 85 millones." },
+    { "q": "¿Cuánto creció la construcción de enero a octubre, según Capeco?", "a": "10.2%, el mejor ritmo para ese periodo desde 2013." },
+    { "q": "¿Por qué importa que el cemento crezca menos?", "a": "Es el termómetro rápido del sector: en octubre subió solo 5.5%, lo más lento en 14 meses." },
+    { "q": "¿Cuántos hogares nuevos se forman al año en Perú y cuántas viviendas formales hay?", "a": "Más de 140,000 hogares frente a unas 50,000 viviendas formales." },
+    { "q": "¿Qué es el comercio agéntico?", "a": "Agentes de IA que buscan, comparan y compran por el usuario. Necesitan datos ordenados para funcionar." },
+    { "q": "¿Qué es el tipo de cambio interbancario?", "a": "El precio del dólar entre bancos y grandes empresas. El viernes abrió en S/ 3.417." }
+  ],
+  "respuestas": [],
+  "curiosidades": []
+}
